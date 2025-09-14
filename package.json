@@ -1,0 +1,27 @@
+{
+  "name": "playwrightnewframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sanity": "npx playwright test --reporter=line,allure-playwright || npx allure serve allure-results --port 4040 --host 127.0.0.1",
+    "e2eFlow": "npx playwright test --grep @e2eSanityFlow --project=chromium",
+    "apiSanityFlow": "npx playwright test --grep @loginApiCallTesting --project=chromium",
+    "loginPageValation": "npx playwright test --grep @loginPositiveCase --project=chromium",
+    "homePageValidation": "npx playwright test --grep @homePageValidCase --project=chromium",
+    "e2ECrossBrowserTesting": "npx playwright test --grep @e2eSanityFlow",
+    "excelAutomation": "npx playwright test --grep @excelAutomation --project=chromium"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.3"
+  },
+  "dependencies": {
+    "allure-playwright": "^3.4.1",
+    "exceljs": "^4.4.0"
+  }
+}
