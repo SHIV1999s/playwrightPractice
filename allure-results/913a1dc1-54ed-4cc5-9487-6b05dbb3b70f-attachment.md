@@ -1,0 +1,131 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - paragraph [ref=e3]:
+    - link "TestifyStack" [ref=e4] [cursor=pointer]:
+      - /url: https://testifystack.com/
+    - text: "| Email, SMS, OTP and Webhooks Testing Stack for QA & Dev"
+    - link "REST API testing tools" [ref=e5] [cursor=pointer]:
+      - img [ref=e7] [cursor=pointer]
+      - generic [ref=e9] [cursor=pointer]: REST API testing tools
+    - link "Software testing services" [ref=e10] [cursor=pointer]:
+      - img [ref=e12] [cursor=pointer]
+      - generic [ref=e14] [cursor=pointer]: Software testing services
+  - banner [ref=e16]:
+    - navigation "Main navigation" [ref=e17]:
+      - link "SUT" [ref=e18] [cursor=pointer]:
+        - /url: /
+        - 'img "Best Website for Practice Automation Testing: Free UI and REST API Examples and Apps. Using Cypress, Playwright, Selenium, WebdriverIO and Postman." [ref=e19] [cursor=pointer]'
+        - text: Practice
+      - generic [ref=e20]:
+        - list [ref=e21]:
+          - listitem [ref=e22]:
+            - button "Demos" [ref=e23] [cursor=pointer]
+          - listitem [ref=e24]:
+            - link "Tools" [ref=e25] [cursor=pointer]:
+              - /url: /#tools
+          - listitem [ref=e26]:
+            - link "Tips" [ref=e27] [cursor=pointer]:
+              - /url: /tips
+          - listitem [ref=e28]:
+            - link "Test Cases" [ref=e29] [cursor=pointer]:
+              - /url: /test-cases
+          - listitem [ref=e30]:
+            - link "API Testing" [ref=e31] [cursor=pointer]:
+              - /url: /notes/api/api-docs/
+          - listitem [ref=e32]:
+            - link "About" [ref=e33] [cursor=pointer]:
+              - /url: /about
+        - list
+        - link "Free ISTQB Mock Exams" [ref=e34] [cursor=pointer]:
+          - /url: https://istqb.expandtesting.com/
+  - main [ref=e35]:
+    - insertion [ref=e39]:
+      - iframe [active] [ref=e41]:
+        - generic [ref=f1e1]:
+          - generic [ref=f1e6]:
+            - link [active] [ref=f1e7] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?nis=4&sa=l&ai=CCosi5JDHaLS1G4XWmsMPucu1aYeuttOBAYrJ5vf7FL-HpOuVDhABIJWUmaMBYOWCgIC8DqAB1J6D8gPIAQmpAiCwnyFpU0g-qAMByAPLBKoE9wFP0M0EU95dTK5UceaKusDYATLoI1C05m7NeWp7EQZsjJujWGm4JZg8u2x5fJ2gfcAvselWWlaDhf_YX_3t1_NFrjkZGc4j9rO-vnMZRWSATcWf3ZEG_HZUdktZS00-AGi4P6D79j0gCrLs6N7osm62NiOiPhKLeH9nbIATnUvHsqbHuguRJ2ehFjRQb6AOKOfhcDl7poMAsa1sk1IF3XII66UhniVZ7LiozhyWWNlD-4eVQ79iy6uUqQYRabBAQnZ_auQzACH7uuybaDlwQgsOMoA5oqa1qifTdj_IkCX7g-Yv3fwQVw7PRYUHSgsad-3Q-hiX8QehwAT9xfr6ngWIBdaG3qlUoAYugAeU0-QCqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAfKqbECqAfrpbECqAfqsbECqAeZtbECqAe-t7ECqAf4wrECqAf7wrEC2AcA0ggpCIBhEAEYnwEyAooCOg2AQIDAgICAgKiAAqgDSL39wTpYrJyHlfLZjwOxCZWZD1urFTymgAoBmAsByAsBgAwBogwDkAEB2gwRCgsQoMn43oTO9uHlARICAQOqDQJJTsgNAeoNEwigmZSV8tmPAxUFq2YCHbllLQ3wDQKIDgnYEwzQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgo0OTcwMjEyMjIxuhcCOAGqGBcJAAAAAET8HEESCjQ5NzAyMTIyMjEYAbIYCRICoE8YLiIBANAYAegYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMItLeHlfLZjwMVBatmAh25ZS0NEAEYASAAEgIP6fD_BwE&num=1&cid=CAQSsgEA2abss3rj17YCnAlCL7x96I9HwTwKUSGub58KkGYcWx8yZnuen7T1GTbOir8Y7tCD3-pH-0DE-P4SBOm-iO95TH0Pb1inpc_XVfZB3qCDCRBCYjtPrjP80hCwAqtvcELSTS9jR_hW7UcSoty9nzCPrBbHzHA9LejI3qikeog40yjWjEamrl5GhD4sqwcm4itvf0I_IcAP6X2ucsryn2LRIlTR0F867pTL_fwcKDfKvkoEGAE&sig=AOD64_3WAn7NFbX9_mfc4KzfTlzkXdUDLw&client=ca-pub-1056034821646296&rf=1&nb=9&adurl=https://www.makemytrip.com/flights/%3Fcmp%3DSEM%7CD%7CDF%7CG%7CPMax%7CPerformance-Max%7CDF_Performance_Max%7CFlight%7CRanveer_Alia%26gad_source%3D5%26gad_campaignid%3D22636102486%26gclid%3DEAIaIQobChMItLeHlfLZjwMVBatmAh25ZS0NEAEYASAAEgIP6fD_BwE
+              - img [ref=f1e8] [cursor=pointer]
+            - generic [ref=f1e10]:
+              - generic [ref=f1e13]:
+                - link "Flights Starting 1299" [ref=f1e16] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?nis=4&sa=l&ai=CCosi5JDHaLS1G4XWmsMPucu1aYeuttOBAYrJ5vf7FL-HpOuVDhABIJWUmaMBYOWCgIC8DqAB1J6D8gPIAQmpAiCwnyFpU0g-qAMByAPLBKoE9wFP0M0EU95dTK5UceaKusDYATLoI1C05m7NeWp7EQZsjJujWGm4JZg8u2x5fJ2gfcAvselWWlaDhf_YX_3t1_NFrjkZGc4j9rO-vnMZRWSATcWf3ZEG_HZUdktZS00-AGi4P6D79j0gCrLs6N7osm62NiOiPhKLeH9nbIATnUvHsqbHuguRJ2ehFjRQb6AOKOfhcDl7poMAsa1sk1IF3XII66UhniVZ7LiozhyWWNlD-4eVQ79iy6uUqQYRabBAQnZ_auQzACH7uuybaDlwQgsOMoA5oqa1qifTdj_IkCX7g-Yv3fwQVw7PRYUHSgsad-3Q-hiX8QehwAT9xfr6ngWIBdaG3qlUoAYugAeU0-QCqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAfKqbECqAfrpbECqAfqsbECqAeZtbECqAe-t7ECqAf4wrECqAf7wrEC2AcA0ggpCIBhEAEYnwEyAooCOg2AQIDAgICAgKiAAqgDSL39wTpYrJyHlfLZjwOxCZWZD1urFTymgAoBmAsByAsBgAwBogwDkAEB2gwRCgsQoMn43oTO9uHlARICAQOqDQJJTsgNAeoNEwigmZSV8tmPAxUFq2YCHbllLQ3wDQKIDgnYEwzQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgo0OTcwMjEyMjIxuhcCOAGqGBcJAAAAAET8HEESCjQ5NzAyMTIyMjEYAbIYCRICoE8YLiIBANAYAegYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMItLeHlfLZjwMVBatmAh25ZS0NEAEYASAAEgIP6fD_BwE&num=1&cid=CAQSsgEA2abss3rj17YCnAlCL7x96I9HwTwKUSGub58KkGYcWx8yZnuen7T1GTbOir8Y7tCD3-pH-0DE-P4SBOm-iO95TH0Pb1inpc_XVfZB3qCDCRBCYjtPrjP80hCwAqtvcELSTS9jR_hW7UcSoty9nzCPrBbHzHA9LejI3qikeog40yjWjEamrl5GhD4sqwcm4itvf0I_IcAP6X2ucsryn2LRIlTR0F867pTL_fwcKDfKvkoEGAE&sig=AOD64_3WAn7NFbX9_mfc4KzfTlzkXdUDLw&client=ca-pub-1056034821646296&rf=1&nb=0&adurl=https://www.makemytrip.com/flights/%3Fcmp%3DSEM%7CD%7CDF%7CG%7CPMax%7CPerformance-Max%7CDF_Performance_Max%7CFlight%7CRanveer_Alia%26gad_source%3D5%26gad_campaignid%3D22636102486%26gclid%3DEAIaIQobChMItLeHlfLZjwMVBatmAh25ZS0NEAEYASAAEgIP6fD_BwE
+                - 'link "For You: Special Airfares with Free Insurance – Limited Time Only" [ref=f1e19] [cursor=pointer]':
+                  - /url: https://adclick.g.doubleclick.net/aclk?nis=4&sa=l&ai=CCosi5JDHaLS1G4XWmsMPucu1aYeuttOBAYrJ5vf7FL-HpOuVDhABIJWUmaMBYOWCgIC8DqAB1J6D8gPIAQmpAiCwnyFpU0g-qAMByAPLBKoE9wFP0M0EU95dTK5UceaKusDYATLoI1C05m7NeWp7EQZsjJujWGm4JZg8u2x5fJ2gfcAvselWWlaDhf_YX_3t1_NFrjkZGc4j9rO-vnMZRWSATcWf3ZEG_HZUdktZS00-AGi4P6D79j0gCrLs6N7osm62NiOiPhKLeH9nbIATnUvHsqbHuguRJ2ehFjRQb6AOKOfhcDl7poMAsa1sk1IF3XII66UhniVZ7LiozhyWWNlD-4eVQ79iy6uUqQYRabBAQnZ_auQzACH7uuybaDlwQgsOMoA5oqa1qifTdj_IkCX7g-Yv3fwQVw7PRYUHSgsad-3Q-hiX8QehwAT9xfr6ngWIBdaG3qlUoAYugAeU0-QCqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAfKqbECqAfrpbECqAfqsbECqAeZtbECqAe-t7ECqAf4wrECqAf7wrEC2AcA0ggpCIBhEAEYnwEyAooCOg2AQIDAgICAgKiAAqgDSL39wTpYrJyHlfLZjwOxCZWZD1urFTymgAoBmAsByAsBgAwBogwDkAEB2gwRCgsQoMn43oTO9uHlARICAQOqDQJJTsgNAeoNEwigmZSV8tmPAxUFq2YCHbllLQ3wDQKIDgnYEwzQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgo0OTcwMjEyMjIxuhcCOAGqGBcJAAAAAET8HEESCjQ5NzAyMTIyMjEYAbIYCRICoE8YLiIBANAYAegYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMItLeHlfLZjwMVBatmAh25ZS0NEAEYASAAEgIP6fD_BwE&num=1&cid=CAQSsgEA2abss3rj17YCnAlCL7x96I9HwTwKUSGub58KkGYcWx8yZnuen7T1GTbOir8Y7tCD3-pH-0DE-P4SBOm-iO95TH0Pb1inpc_XVfZB3qCDCRBCYjtPrjP80hCwAqtvcELSTS9jR_hW7UcSoty9nzCPrBbHzHA9LejI3qikeog40yjWjEamrl5GhD4sqwcm4itvf0I_IcAP6X2ucsryn2LRIlTR0F867pTL_fwcKDfKvkoEGAE&sig=AOD64_3WAn7NFbX9_mfc4KzfTlzkXdUDLw&client=ca-pub-1056034821646296&rf=1&nb=7&adurl=https://www.makemytrip.com/flights/%3Fcmp%3DSEM%7CD%7CDF%7CG%7CPMax%7CPerformance-Max%7CDF_Performance_Max%7CFlight%7CRanveer_Alia%26gad_source%3D5%26gad_campaignid%3D22636102486%26gclid%3DEAIaIQobChMItLeHlfLZjwMVBatmAh25ZS0NEAEYASAAEgIP6fD_BwE
+              - generic [ref=f1e22]:
+                - link:
+                  - /url: https://adclick.g.doubleclick.net/aclk?nis=4&sa=l&ai=CCosi5JDHaLS1G4XWmsMPucu1aYeuttOBAYrJ5vf7FL-HpOuVDhABIJWUmaMBYOWCgIC8DqAB1J6D8gPIAQmpAiCwnyFpU0g-qAMByAPLBKoE9wFP0M0EU95dTK5UceaKusDYATLoI1C05m7NeWp7EQZsjJujWGm4JZg8u2x5fJ2gfcAvselWWlaDhf_YX_3t1_NFrjkZGc4j9rO-vnMZRWSATcWf3ZEG_HZUdktZS00-AGi4P6D79j0gCrLs6N7osm62NiOiPhKLeH9nbIATnUvHsqbHuguRJ2ehFjRQb6AOKOfhcDl7poMAsa1sk1IF3XII66UhniVZ7LiozhyWWNlD-4eVQ79iy6uUqQYRabBAQnZ_auQzACH7uuybaDlwQgsOMoA5oqa1qifTdj_IkCX7g-Yv3fwQVw7PRYUHSgsad-3Q-hiX8QehwAT9xfr6ngWIBdaG3qlUoAYugAeU0-QCqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAfKqbECqAfrpbECqAfqsbECqAeZtbECqAe-t7ECqAf4wrECqAf7wrEC2AcA0ggpCIBhEAEYnwEyAooCOg2AQIDAgICAgKiAAqgDSL39wTpYrJyHlfLZjwOxCZWZD1urFTymgAoBmAsByAsBgAwBogwDkAEB2gwRCgsQoMn43oTO9uHlARICAQOqDQJJTsgNAeoNEwigmZSV8tmPAxUFq2YCHbllLQ3wDQKIDgnYEwzQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgo0OTcwMjEyMjIxuhcCOAGqGBcJAAAAAET8HEESCjQ5NzAyMTIyMjEYAbIYCRICoE8YLiIBANAYAegYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMItLeHlfLZjwMVBatmAh25ZS0NEAEYASAAEgIP6fD_BwE&num=1&cid=CAQSsgEA2abss3rj17YCnAlCL7x96I9HwTwKUSGub58KkGYcWx8yZnuen7T1GTbOir8Y7tCD3-pH-0DE-P4SBOm-iO95TH0Pb1inpc_XVfZB3qCDCRBCYjtPrjP80hCwAqtvcELSTS9jR_hW7UcSoty9nzCPrBbHzHA9LejI3qikeog40yjWjEamrl5GhD4sqwcm4itvf0I_IcAP6X2ucsryn2LRIlTR0F867pTL_fwcKDfKvkoEGAE&sig=AOD64_3WAn7NFbX9_mfc4KzfTlzkXdUDLw&client=ca-pub-1056034821646296&rf=1&nb=8&adurl=https://www.makemytrip.com/flights/%3Fcmp%3DSEM%7CD%7CDF%7CG%7CPMax%7CPerformance-Max%7CDF_Performance_Max%7CFlight%7CRanveer_Alia%26gad_source%3D5%26gad_campaignid%3D22636102486%26gclid%3DEAIaIQobChMItLeHlfLZjwMVBatmAh25ZS0NEAEYASAAEgIP6fD_BwE
+                - link "Makemytrip.com" [ref=f1e24] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?nis=4&sa=l&ai=CCosi5JDHaLS1G4XWmsMPucu1aYeuttOBAYrJ5vf7FL-HpOuVDhABIJWUmaMBYOWCgIC8DqAB1J6D8gPIAQmpAiCwnyFpU0g-qAMByAPLBKoE9wFP0M0EU95dTK5UceaKusDYATLoI1C05m7NeWp7EQZsjJujWGm4JZg8u2x5fJ2gfcAvselWWlaDhf_YX_3t1_NFrjkZGc4j9rO-vnMZRWSATcWf3ZEG_HZUdktZS00-AGi4P6D79j0gCrLs6N7osm62NiOiPhKLeH9nbIATnUvHsqbHuguRJ2ehFjRQb6AOKOfhcDl7poMAsa1sk1IF3XII66UhniVZ7LiozhyWWNlD-4eVQ79iy6uUqQYRabBAQnZ_auQzACH7uuybaDlwQgsOMoA5oqa1qifTdj_IkCX7g-Yv3fwQVw7PRYUHSgsad-3Q-hiX8QehwAT9xfr6ngWIBdaG3qlUoAYugAeU0-QCqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAfKqbECqAfrpbECqAfqsbECqAeZtbECqAe-t7ECqAf4wrECqAf7wrEC2AcA0ggpCIBhEAEYnwEyAooCOg2AQIDAgICAgKiAAqgDSL39wTpYrJyHlfLZjwOxCZWZD1urFTymgAoBmAsByAsBgAwBogwDkAEB2gwRCgsQoMn43oTO9uHlARICAQOqDQJJTsgNAeoNEwigmZSV8tmPAxUFq2YCHbllLQ3wDQKIDgnYEwzQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgo0OTcwMjEyMjIxuhcCOAGqGBcJAAAAAET8HEESCjQ5NzAyMTIyMjEYAbIYCRICoE8YLiIBANAYAegYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMItLeHlfLZjwMVBatmAh25ZS0NEAEYASAAEgIP6fD_BwE&num=1&cid=CAQSsgEA2abss3rj17YCnAlCL7x96I9HwTwKUSGub58KkGYcWx8yZnuen7T1GTbOir8Y7tCD3-pH-0DE-P4SBOm-iO95TH0Pb1inpc_XVfZB3qCDCRBCYjtPrjP80hCwAqtvcELSTS9jR_hW7UcSoty9nzCPrBbHzHA9LejI3qikeog40yjWjEamrl5GhD4sqwcm4itvf0I_IcAP6X2ucsryn2LRIlTR0F867pTL_fwcKDfKvkoEGAE&sig=AOD64_3WAn7NFbX9_mfc4KzfTlzkXdUDLw&client=ca-pub-1056034821646296&rf=1&nb=1&adurl=https://www.makemytrip.com/flights/%3Fcmp%3DSEM%7CD%7CDF%7CG%7CPMax%7CPerformance-Max%7CDF_Performance_Max%7CFlight%7CRanveer_Alia%26gad_source%3D5%26gad_campaignid%3D22636102486%26gclid%3DEAIaIQobChMItLeHlfLZjwMVBatmAh25ZS0NEAEYASAAEgIP6fD_BwE
+                - link "Book Now" [ref=f1e26] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?nis=4&sa=l&ai=CCosi5JDHaLS1G4XWmsMPucu1aYeuttOBAYrJ5vf7FL-HpOuVDhABIJWUmaMBYOWCgIC8DqAB1J6D8gPIAQmpAiCwnyFpU0g-qAMByAPLBKoE9wFP0M0EU95dTK5UceaKusDYATLoI1C05m7NeWp7EQZsjJujWGm4JZg8u2x5fJ2gfcAvselWWlaDhf_YX_3t1_NFrjkZGc4j9rO-vnMZRWSATcWf3ZEG_HZUdktZS00-AGi4P6D79j0gCrLs6N7osm62NiOiPhKLeH9nbIATnUvHsqbHuguRJ2ehFjRQb6AOKOfhcDl7poMAsa1sk1IF3XII66UhniVZ7LiozhyWWNlD-4eVQ79iy6uUqQYRabBAQnZ_auQzACH7uuybaDlwQgsOMoA5oqa1qifTdj_IkCX7g-Yv3fwQVw7PRYUHSgsad-3Q-hiX8QehwAT9xfr6ngWIBdaG3qlUoAYugAeU0-QCqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAfKqbECqAfrpbECqAfqsbECqAeZtbECqAe-t7ECqAf4wrECqAf7wrEC2AcA0ggpCIBhEAEYnwEyAooCOg2AQIDAgICAgKiAAqgDSL39wTpYrJyHlfLZjwOxCZWZD1urFTymgAoBmAsByAsBgAwBogwDkAEB2gwRCgsQoMn43oTO9uHlARICAQOqDQJJTsgNAeoNEwigmZSV8tmPAxUFq2YCHbllLQ3wDQKIDgnYEwzQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgo0OTcwMjEyMjIxuhcCOAGqGBcJAAAAAET8HEESCjQ5NzAyMTIyMjEYAbIYCRICoE8YLiIBANAYAegYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMItLeHlfLZjwMVBatmAh25ZS0NEAEYASAAEgIP6fD_BwE&num=1&cid=CAQSsgEA2abss3rj17YCnAlCL7x96I9HwTwKUSGub58KkGYcWx8yZnuen7T1GTbOir8Y7tCD3-pH-0DE-P4SBOm-iO95TH0Pb1inpc_XVfZB3qCDCRBCYjtPrjP80hCwAqtvcELSTS9jR_hW7UcSoty9nzCPrBbHzHA9LejI3qikeog40yjWjEamrl5GhD4sqwcm4itvf0I_IcAP6X2ucsryn2LRIlTR0F867pTL_fwcKDfKvkoEGAE&sig=AOD64_3WAn7NFbX9_mfc4KzfTlzkXdUDLw&client=ca-pub-1056034821646296&rf=1&nb=8&adurl=https://www.makemytrip.com/flights/%3Fcmp%3DSEM%7CD%7CDF%7CG%7CPMax%7CPerformance-Max%7CDF_Performance_Max%7CFlight%7CRanveer_Alia%26gad_source%3D5%26gad_campaignid%3D22636102486%26gclid%3DEAIaIQobChMItLeHlfLZjwMVBatmAh25ZS0NEAEYASAAEgIP6fD_BwE
+                - link [ref=f1e27] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?nis=4&sa=l&ai=CCosi5JDHaLS1G4XWmsMPucu1aYeuttOBAYrJ5vf7FL-HpOuVDhABIJWUmaMBYOWCgIC8DqAB1J6D8gPIAQmpAiCwnyFpU0g-qAMByAPLBKoE9wFP0M0EU95dTK5UceaKusDYATLoI1C05m7NeWp7EQZsjJujWGm4JZg8u2x5fJ2gfcAvselWWlaDhf_YX_3t1_NFrjkZGc4j9rO-vnMZRWSATcWf3ZEG_HZUdktZS00-AGi4P6D79j0gCrLs6N7osm62NiOiPhKLeH9nbIATnUvHsqbHuguRJ2ehFjRQb6AOKOfhcDl7poMAsa1sk1IF3XII66UhniVZ7LiozhyWWNlD-4eVQ79iy6uUqQYRabBAQnZ_auQzACH7uuybaDlwQgsOMoA5oqa1qifTdj_IkCX7g-Yv3fwQVw7PRYUHSgsad-3Q-hiX8QehwAT9xfr6ngWIBdaG3qlUoAYugAeU0-QCqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAfKqbECqAfrpbECqAfqsbECqAeZtbECqAe-t7ECqAf4wrECqAf7wrEC2AcA0ggpCIBhEAEYnwEyAooCOg2AQIDAgICAgKiAAqgDSL39wTpYrJyHlfLZjwOxCZWZD1urFTymgAoBmAsByAsBgAwBogwDkAEB2gwRCgsQoMn43oTO9uHlARICAQOqDQJJTsgNAeoNEwigmZSV8tmPAxUFq2YCHbllLQ3wDQKIDgnYEwzQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgo0OTcwMjEyMjIxuhcCOAGqGBcJAAAAAET8HEESCjQ5NzAyMTIyMjEYAbIYCRICoE8YLiIBANAYAegYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMItLeHlfLZjwMVBatmAh25ZS0NEAEYASAAEgIP6fD_BwE&num=1&cid=CAQSsgEA2abss3rj17YCnAlCL7x96I9HwTwKUSGub58KkGYcWx8yZnuen7T1GTbOir8Y7tCD3-pH-0DE-P4SBOm-iO95TH0Pb1inpc_XVfZB3qCDCRBCYjtPrjP80hCwAqtvcELSTS9jR_hW7UcSoty9nzCPrBbHzHA9LejI3qikeog40yjWjEamrl5GhD4sqwcm4itvf0I_IcAP6X2ucsryn2LRIlTR0F867pTL_fwcKDfKvkoEGAE&sig=AOD64_3WAn7NFbX9_mfc4KzfTlzkXdUDLw&client=ca-pub-1056034821646296&rf=1&nb=8&adurl=https://www.makemytrip.com/flights/%3Fcmp%3DSEM%7CD%7CDF%7CG%7CPMax%7CPerformance-Max%7CDF_Performance_Max%7CFlight%7CRanveer_Alia%26gad_source%3D5%26gad_campaignid%3D22636102486%26gclid%3DEAIaIQobChMItLeHlfLZjwMVBatmAh25ZS0NEAEYASAAEgIP6fD_BwE
+                  - generic [ref=f1e28] [cursor=pointer]:
+                    - img [ref=f1e29] [cursor=pointer]
+                    - img [ref=f1e31] [cursor=pointer]
+          - img [ref=f1e39] [cursor=pointer]
+          - button [ref=f1e41] [cursor=pointer]:
+            - img [ref=f1e42] [cursor=pointer]
+          - iframe
+    - paragraph [ref=e43]:
+      - text: Do you enjoy this platform? ❤️
+      - link "Buy us a coffee" [ref=e44] [cursor=pointer]:
+        - /url: https://www.buymeacoffee.com/expandtesting
+    - generic [ref=e48]:
+      - navigation "breadcrumb mb-2" [ref=e49]:
+        - list [ref=e50]:
+          - listitem [ref=e51]:
+            - link "Home" [ref=e52] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e53]: / Drag and Drop
+      - heading "Drag and Drop page for Automation Testing Practice" [level=1] [ref=e54]
+      - generic [ref=e56]:
+        - text: This is a drag-and-drop demo page. You can use it to practice automated tests using tools like Selenium, Playwright, Cypress, etc. The scenario here is to drag element A to element B and check if the element was really dragged. You can make assertions based on the letter (A or B) displayed in each box.
+        - link "Automation tools" [ref=e57] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - generic [ref=e61] [cursor=pointer]: Automation tools
+        - link "REST API testing tools" [ref=e62] [cursor=pointer]:
+          - img [ref=e64] [cursor=pointer]
+          - generic [ref=e66] [cursor=pointer]: REST API testing tools
+      - generic [ref=e68]:
+        - generic:
+          - generic [ref=e70]: A
+          - generic [ref=e72]: B
+  - contentinfo [ref=e73]:
+    - generic [ref=e78]:
+      - heading "Practice Test Automation WebSite for Web UI and Rest API" [level=4] [ref=e79]
+      - paragraph [ref=e80]:
+        - text: "Version: 935c019b | Copyright"
+        - link "Expand Testing" [ref=e81] [cursor=pointer]:
+          - /url: https://expandtesting.com/
+        - text: "2025"
+  - img [ref=e83] [cursor=pointer]
+  - insertion [ref=e85]:
+    - iframe [ref=e88]:
+      - iframe [ref=f2e1]:
+        - generic [active]:
+          - generic [ref=f3e1]:
+            - generic [ref=f3e2]:
+              - generic:
+                - img [ref=f3e6] [cursor=pointer]
+                - button [ref=f3e8] [cursor=pointer]:
+                  - img [ref=f3e9] [cursor=pointer]
+            - insertion [ref=f3e16]:
+              - generic [ref=f3e17]:
+                - link "Click Here" [ref=f3e18] [cursor=pointer]:
+                  - /url: https://googleads.g.doubleclick.net/dbm/clk?sa=L&ai=CZ3ax5JDHaLzBG43RmsMPxoenwATDmfzefsPhkaLbFIewveSjRhABIJWUmaMBYOWCgIC8DqABi-KKoAHIAQmoAwHIA5sEqgSHAk_QbvUNE5D5tEYrehFRCnaFgZrl_e1S-AXwlWpucMAWjymCdVmymMJz_oMb0h22joHTGhDOl29L5ga3oGIxsPPutUcyJRJvcuRLRuLHANVYe3cNIzKbYC-PD14j23khbAqiyZSSVaBtKAmY50cUYaUBYLq1cQWZDHweffytNVZ3FCjwqwuKaYhVEciZUFXnWuS_yO6XIK88M7WXpOKn8Ls_E8BCtYVoIJ7Iajvel48LNZcVeOR1Ju3O5Lrstqj5WtOgRJ-qb21W3lqEmJIghYexN_M0Dd_ZuvSC7N6vrPCqYN36ny9McOokFOMDM8cb2oucr3_QPnqzfk4vZnL7zET-CN2DGYILwASc1r-0mAXgBAOIBdzVn9pTkAYBoAZNgAfdnfXfAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAqgH59exAtgHANIIKQiAYRABGJ8BMgKKAjoNgECAwICAgICogAKoA0i9_cE6WIGWh5Xy2Y8DgAoBmAsByAsBgAwBogwIKgYKBNbYsQKqDQJJTuoNEwjIqpiV8tmPAxWNqGYCHcbDCUjwDQGIDgmwE8WEmB7QEwDYEw3YFAHQFQHKFgIKAPgWAYAXAbIXAhgCshgFGE0iAQDYGQE&ae=1&num=1&cid=CAQSsgEA2abss3rKd63osm7y1BDngI6mB9NGnnmkusPoQBxsDLwlVxTSY15xvCo3N57pwrdG3xtb1Dro2bOFO6ksmHP-rlCplXsqs_pVeYL7WyLcVStlxHdbhVWBwXV72NXPONk6dSlE8e7W0hyVZBosj9BjPlj7hnWEET5x_6H22CbAyIb6pxrjdjmDOmwMzSW6rn0oPyp5S7V7yltfujGXKvEGSY-209hnLDkkyRtwIoT9FvpUGAE&sig=AOD64_2NK2rcFxFzTQSLrnn8VI75jLiYNw&client=ca-pub-1056034821646296&dbm_c=AKAmf-CJtjNVCHwpsfOIMYOc_bJU_a6E58_dMJfTX-xAz0PqrL-h6u9Sx9YRrHIjR4-VxGXUYYeiKmEcA_HZ_yffoOyTuLRCxwF7pENEmzF9DycvxsiEKh0w948ev0yxNjuTPynHp7nCsYu43JodKYHschGNK5jWFzWPi2VqJWJQwUeBB1y4r5xUTw7OOIwXScWwNZnlDN5FZ8VJQiYuCt7SHnK26UgU8SVtdvyfh2JgIKIU8ZfFM4d_hdX_jkaHwCA16FVGmkkMCm8t-INB6OKtr8tdlKQXe427Jd-BfcTy8DyS-nWD-eE&cry=1&dbm_d=AKAmf-Adq2sed6-YcAc4Ui_CJ15xAlh9PsggEluViuPT4ImY2B4FsMYR7EgiRIQIM2R5b1HbNCUkrpF-MqrDU454tCGHxTkjPoSMoutowLFeDQHyKWQJJUc4rD50_AICniSVpy_V4TgIAUTFJYaFwsZR5ljz9WpFIF3zh7VtnpKTFCPfGrNMVAVgqEQB5tcqmGSaHT7akfMmdtWsTct5FO-y51FXcT8xv1X1suDDxLlf0EdThx4s7rnzzQzadYL5phttB9QjivoshKMuOc-Jp-5xXkIawd5olhQFR5gm8EWfAKbEUHgq9goVs7aietVRW8oqfa9ZqXKxv6bbmpCbNfabyHmPtTlsVuzKPMKmFGYJrsZesorFY7Gs4KwMEJFKX7M-93jBNyzmLRbihh_TPJwioGqB4wDzmv-ikSpqUwKVpo2WiZ2rG0TGis-vPwOU3Znv9dGsuGvvvWWaNax2WLAiFXCNjQ1dUApaH_D51kMKuTsHrGG_V1pYqPWN09oAkSQy7VHBhnZ8j43hMGq74v1c9GsHRPfheMLnsjAhOmeFCv4iFf4Ok_vI0FyihMGtFQRV70X9fVdw5YwkWqx4D2VL-86Ddgp-LpZioQnX_0BAs6HUu3Ks8K9-A21HdRu5rDrRp7BQ-O6nwxEzsHUBwXkddKmKvGnOS0U7En5VZwlbA3r7I7RwBBhWlDZWStHotr3zrw2oSOqosHCWMmN7VZ9i2pvcb_2qtQ&adurl=https://servedby.flashtalking.com/click/7/281072;9880715;5573303;210;0/?us_privacy=!!US_PRIVACY!&ft_partnerimpid=ABAjH0jxioydTyFq-mzV_Bw5vgnc&ft_impID=44AAB3B2-D129-C225-E4AD-7DC720A9BF8C&ft_section=22469405404&g=64679317981445&random=117056.29003609045&ft_width=728&ft_height=90&url=https://www.adobe.com/in/creativecloud.html?sdid=RYGDMNTM&mv=display&mv2=display
+                  - img "Click Here" [ref=f3e19] [cursor=pointer]
+                - link [ref=f3e21] [cursor=pointer]:
+                  - /url: https://www.flashtalking.com/consumer-privacy
+                  - img [ref=f3e22] [cursor=pointer]
+                - link "Privacy Notification" [ref=f3e24] [cursor=pointer]:
+                  - /url: https://www.flashtalking.com/consumer-privacy
+                  - img [ref=f3e25] [cursor=pointer]
+                - link "Privacy Notification" [ref=f3e27] [cursor=pointer]:
+                  - /url: https://www.flashtalking.com/consumer-privacy
+                  - img [ref=f3e28] [cursor=pointer]
+          - iframe
+```
