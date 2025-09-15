@@ -1,0 +1,9 @@
+Promise {
+  {
+    id: 'ar138bbwa',
+    name: 'Item 1',
+    value: 158,
+    status: 'inactive',
+    timestamp: '2025-09-15T15:15:59.011Z'
+  }
+}

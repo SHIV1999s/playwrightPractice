@@ -1,0 +1,9 @@
+Promise {
+  {
+    id: 'oxv6vpnr9',
+    name: 'Item 1',
+    value: 350,
+    status: 'inactive',
+    timestamp: '2025-09-15T15:17:27.042Z'
+  }
+}

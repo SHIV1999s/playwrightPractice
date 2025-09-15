@@ -1,0 +1,18 @@
+inactive
+0 = 10
+inactive
+1 = 10
+inactive
+2 = 10
+inactive
+3 = 10
+inactive
+4 = 10
+inactive
+5 = 10
+inactive
+6 = 10
+inactive
+7 = 10
+active
+8 = 10

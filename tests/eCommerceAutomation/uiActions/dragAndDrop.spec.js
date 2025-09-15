@@ -9,4 +9,5 @@ test('draganddropaction', { tag: '@draganddropaction' }, async ({ page }) => {
     await page.mouse.down();
     await page.locator('#column-b').hover();
     await page.mouse.up();
+    await page.on('request',request=>request.method())
 })
