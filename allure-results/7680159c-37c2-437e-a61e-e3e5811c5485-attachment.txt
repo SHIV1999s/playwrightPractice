@@ -1,0 +1,20 @@
+[
+  'samsung galaxy s24 ultra 5g black\nin Mobiles',
+  'samsung galaxy s24 ultra 5g black back cover',
+  'samsung galaxy s24 ultra 5g black cover',
+  'samsung galaxy s25 ultra 5g 1tb black',
+  'samsung galaxy s24 ultra black back cover',
+  'samsung galaxy s24 ultra black',
+  'samsung galaxy s24 ultra 5g black screen guard',
+  'samsung galaxy s25 ultra black smoke magsafe cover'
+]
+[
+  'samsung galaxy s24 ultra 5g blackin Mobiles',
+  'samsung galaxy s24 ultra 5g black back cover',
+  'samsung galaxy s24 ultra 5g black cover',
+  'samsung galaxy s25 ultra 5g 1tb black',
+  'samsung galaxy s24 ultra black back cover',
+  'samsung galaxy s24 ultra black',
+  'samsung galaxy s24 ultra 5g black screen guard',
+  'samsung galaxy s25 ultra black smoke magsafe cover'
+]

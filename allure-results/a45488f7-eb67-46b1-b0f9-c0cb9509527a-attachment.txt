@@ -1,0 +1,12 @@
+[
+  'Trending', 'mobiles',
+  'shoes',    't shirts',
+  'laptops',  'watches',
+  'tv',       'sarees'
+]
+[
+  'Trending', 'mobiles',
+  'shoes',    't shirts',
+  'laptops',  'watches',
+  'tv',       'sarees'
+]
