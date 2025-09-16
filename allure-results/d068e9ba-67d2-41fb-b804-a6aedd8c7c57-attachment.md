@@ -1,0 +1,1452 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - link "Flipkart" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Flipkart" [ref=e11] [cursor=pointer]
+      - link "Explore Plus" [ref=e12] [cursor=pointer]:
+        - /url: /plus
+        - text: Explore
+        - generic [ref=e13] [cursor=pointer]: Plus
+        - img [ref=e14] [cursor=pointer]
+    - generic [ref=e17]:
+      - textbox "Search for products, brands and more" [ref=e19]: samsung galaxy s24 ultra 5g black
+      - button [ref=e20] [cursor=pointer]:
+        - img [ref=e21] [cursor=pointer]
+    - link "Login" [ref=e29] [cursor=pointer]:
+      - /url: /account/login?ret=/search%3Fq%3Dsamsung%2Bgalaxy%2Bs24%2Bultra%2B5g%2Bblack%26sid%3Dtyy%252C4io%26as%3Don%26as-show%3Don%26otracker%3DAS_QueryStore_OrganicAutoSuggest_1_33_na_na_na%26otracker1%3DAS_QueryStore_OrganicAutoSuggest_1_33_na_na_na%26as-pos%3D1%26as-type%3DRECENT%26suggestionId%3Dsamsung%2Bgalaxy%2Bs24%2Bultra%2B5g%2Bblack%257CMobiles%26requestId%3D41b0ddf1-036c-4625-9be6-8800be4ec7d7%26as-searchtext%3Dsamsung%2520galaxy%2520s24%2520ultra%25205g%2520black
+    - link "Become a Seller" [ref=e31] [cursor=pointer]:
+      - /url: https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect
+      - generic [ref=e32] [cursor=pointer]: Become a Seller
+    - generic [ref=e34] [cursor=pointer]:
+      - generic [ref=e37] [cursor=pointer]: More
+      - img [ref=e38] [cursor=pointer]
+    - link "Cart" [ref=e43] [cursor=pointer]:
+      - /url: /viewcart?exploreMode=true&preference=FLIPKART
+      - img [ref=e44] [cursor=pointer]
+      - generic [ref=e46] [cursor=pointer]: Cart
+  - generic [ref=e51]:
+    - generic [ref=e52] [cursor=pointer]:
+      - text: Electronics
+      - img [ref=e53] [cursor=pointer]
+    - generic [ref=e55] [cursor=pointer]:
+      - text: TVs & Appliances
+      - img [ref=e56] [cursor=pointer]
+    - generic [ref=e58] [cursor=pointer]:
+      - text: Men
+      - img [ref=e59] [cursor=pointer]
+    - generic [ref=e61] [cursor=pointer]:
+      - text: Women
+      - img [ref=e62] [cursor=pointer]
+    - generic [ref=e64] [cursor=pointer]:
+      - text: Baby & Kids
+      - img [ref=e65] [cursor=pointer]
+    - generic [ref=e67] [cursor=pointer]:
+      - text: Home & Furniture
+      - img [ref=e68] [cursor=pointer]
+    - generic [ref=e70] [cursor=pointer]:
+      - text: Sports, Books & More
+      - img [ref=e71] [cursor=pointer]
+    - link "Flights" [ref=e73] [cursor=pointer]:
+      - /url: /travel/flights?otracker=nmenu_Flights
+    - link "Offer Zone" [ref=e74] [cursor=pointer]:
+      - /url: /offers-list/top-deals?screen=dynamic&pk=themeViews%3DDT-OMU-A2%3ADT-OMU~widgetType%3DdealCard~contentType%3Dneo&otracker=nmenu_offer-zone
+  - generic [ref=e75]:
+    - generic [ref=e76]:
+      - generic [ref=e78]:
+        - generic [ref=e80]:
+          - generic [ref=e84]: Filters
+          - generic [ref=e86]:
+            - generic [ref=e88]: CATEGORIES
+            - generic [ref=e90]:
+              - img [ref=e92] [cursor=pointer]
+              - link "Mobiles & Accessories" [ref=e94] [cursor=pointer]:
+                - /url: /mobiles-accessories/pr?sid=tyy&q=samsung+galaxy+s24+ultra+5g+black&otracker=categorytree
+            - generic [ref=e96]:
+              - img [ref=e98] [cursor=pointer]
+              - link "Mobiles" [ref=e100] [cursor=pointer]:
+                - /url: /mobiles/pr?sid=tyy,4io&q=samsung+galaxy+s24+ultra+5g+black&otracker=categorytree
+          - generic [ref=e101]:
+            - generic [ref=e104]: Price
+            - generic [ref=e120]:
+              - generic [ref=e121]: .
+              - generic [ref=e122]: .
+              - generic [ref=e123]: .
+              - generic [ref=e124]: .
+              - generic [ref=e125]: .
+              - generic: .
+            - generic [ref=e126]:
+              - combobox [ref=e128]:
+                - option "Min" [selected]
+                - option "₹10000"
+                - option "₹15000"
+                - option "₹20000"
+                - option "₹30000"
+              - generic [ref=e129]: to
+              - combobox [ref=e131]:
+                - option "₹10000"
+                - option "₹15000"
+                - option "₹20000"
+                - option "₹30000"
+                - option "₹30000+" [selected]
+          - generic [ref=e132]:
+            - generic [ref=e133] [cursor=pointer]:
+              - generic [ref=e134] [cursor=pointer]: Brand
+              - img [ref=e135] [cursor=pointer]
+            - generic [ref=e138]:
+              - generic [ref=e143] [cursor=pointer]: MOTOROLA
+              - generic [ref=e148] [cursor=pointer]: Infinix
+              - generic [ref=e153] [cursor=pointer]: POCO
+              - generic [ref=e158] [cursor=pointer]: realme
+              - generic [ref=e163] [cursor=pointer]: Samsung
+              - generic [ref=e168] [cursor=pointer]: OnePlus
+          - generic [ref=e169]:
+            - img [ref=e174] [cursor=pointer]
+            - generic [ref=e176] [cursor=pointer]: "?"
+          - generic [ref=e178] [cursor=pointer]:
+            - generic [ref=e179] [cursor=pointer]: Customer Ratings
+            - img [ref=e180] [cursor=pointer]
+          - generic [ref=e183] [cursor=pointer]:
+            - generic [ref=e184] [cursor=pointer]: GST Invoice Available
+            - img [ref=e185] [cursor=pointer]
+          - generic [ref=e187]:
+            - generic [ref=e188] [cursor=pointer]:
+              - generic [ref=e189] [cursor=pointer]: RAM
+              - img [ref=e190] [cursor=pointer]
+            - generic [ref=e193]:
+              - generic [ref=e198] [cursor=pointer]: 4 GB
+              - generic [ref=e203] [cursor=pointer]: 3 GB
+              - generic [ref=e208] [cursor=pointer]: 8 GB and Above
+              - generic [ref=e213] [cursor=pointer]: 6 GB Above
+              - generic [ref=e218] [cursor=pointer]: 6 GB
+          - generic [ref=e220] [cursor=pointer]:
+            - generic [ref=e221] [cursor=pointer]: Internal Storage
+            - img [ref=e222] [cursor=pointer]
+          - generic [ref=e225] [cursor=pointer]:
+            - generic [ref=e226] [cursor=pointer]: Battery Capacity
+            - img [ref=e227] [cursor=pointer]
+          - generic [ref=e230] [cursor=pointer]:
+            - generic [ref=e231] [cursor=pointer]: Screen Size
+            - img [ref=e232] [cursor=pointer]
+          - generic [ref=e235] [cursor=pointer]:
+            - generic [ref=e236] [cursor=pointer]: Primary Camera
+            - img [ref=e237] [cursor=pointer]
+          - generic [ref=e240] [cursor=pointer]:
+            - generic [ref=e241] [cursor=pointer]: Secondary Camera
+            - img [ref=e242] [cursor=pointer]
+          - generic [ref=e245] [cursor=pointer]:
+            - generic [ref=e246] [cursor=pointer]: Processor Brand
+            - img [ref=e247] [cursor=pointer]
+          - generic [ref=e250] [cursor=pointer]:
+            - generic [ref=e251] [cursor=pointer]: Speciality
+            - img [ref=e252] [cursor=pointer]
+          - generic [ref=e255] [cursor=pointer]:
+            - generic [ref=e256] [cursor=pointer]: Resolution Type
+            - img [ref=e257] [cursor=pointer]
+          - generic [ref=e260] [cursor=pointer]:
+            - generic [ref=e261] [cursor=pointer]: Operating System
+            - img [ref=e262] [cursor=pointer]
+          - generic [ref=e265] [cursor=pointer]:
+            - generic [ref=e266] [cursor=pointer]: Network Type
+            - img [ref=e267] [cursor=pointer]
+          - generic [ref=e270] [cursor=pointer]:
+            - generic [ref=e271] [cursor=pointer]: Sim Type
+            - img [ref=e272] [cursor=pointer]
+          - generic [ref=e275] [cursor=pointer]:
+            - generic [ref=e276] [cursor=pointer]: Availability
+            - img [ref=e277] [cursor=pointer]
+          - generic [ref=e279]:
+            - generic [ref=e280] [cursor=pointer]:
+              - generic [ref=e281] [cursor=pointer]: Discount
+              - img [ref=e282] [cursor=pointer]
+            - generic [ref=e285]:
+              - generic [ref=e290] [cursor=pointer]: 50% or more
+              - generic [ref=e295] [cursor=pointer]: 40% or more
+              - generic [ref=e300] [cursor=pointer]: 30% or more
+              - generic [ref=e305] [cursor=pointer]: 20% or more
+              - generic [ref=e310] [cursor=pointer]: 10% or more
+          - generic [ref=e311]:
+            - generic [ref=e312] [cursor=pointer]:
+              - generic [ref=e313] [cursor=pointer]: Offers
+              - img [ref=e314] [cursor=pointer]
+            - generic [ref=e317]:
+              - generic [ref=e322] [cursor=pointer]: Special Price
+              - generic [ref=e327] [cursor=pointer]: Buy More, Save More
+              - generic [ref=e332] [cursor=pointer]: No Cost EMI
+          - generic [ref=e334] [cursor=pointer]:
+            - generic [ref=e335] [cursor=pointer]: Type
+            - img [ref=e336] [cursor=pointer]
+          - generic [ref=e339] [cursor=pointer]:
+            - generic [ref=e340] [cursor=pointer]: Operating System Version Name
+            - img [ref=e341] [cursor=pointer]
+          - generic [ref=e344] [cursor=pointer]:
+            - generic [ref=e345] [cursor=pointer]: Clock Speed
+            - img [ref=e346] [cursor=pointer]
+          - generic [ref=e349] [cursor=pointer]:
+            - generic [ref=e350] [cursor=pointer]: Features
+            - img [ref=e351] [cursor=pointer]
+          - generic [ref=e354] [cursor=pointer]:
+            - generic [ref=e355] [cursor=pointer]: Number of Cores
+            - img [ref=e356] [cursor=pointer]
+        - link "Need help? Help me decide Buying Guide" [ref=e359] [cursor=pointer]:
+          - /url: /buying-guide/mobiles?sid=tyy,4io&otracker=bg_from_browse_lhs
+          - generic [ref=e361] [cursor=pointer]: Need help?
+          - generic [ref=e362] [cursor=pointer]:
+            - generic [ref=e363] [cursor=pointer]: Help me decide
+            - img [ref=e364] [cursor=pointer]
+          - img "Buying Guide" [ref=e366] [cursor=pointer]
+      - generic [ref=e367]:
+        - generic [ref=e370]:
+          - generic [ref=e371]:
+            - generic [ref=e372]:
+              - link "Home" [ref=e373] [cursor=pointer]:
+                - /url: /
+              - img [ref=e374]
+            - generic [ref=e376]:
+              - link "Mobiles & Accessories" [ref=e377] [cursor=pointer]:
+                - /url: /mobiles-accessories/pr?sid=tyy&marketplace=FLIPKART
+              - img [ref=e378]
+            - link "Mobiles" [ref=e381] [cursor=pointer]:
+              - /url: /mobiles/pr?sid=tyy,4io&marketplace=FLIPKART
+          - generic [ref=e382]:
+            - text: Showing 1 – 24 of 45 results for "
+            - generic [ref=e383]: samsung galaxy s24 ultra 5g black
+            - text: "\""
+          - generic [ref=e384]:
+            - generic [ref=e385]: Sort By
+            - generic [ref=e386]: Relevance
+            - generic [ref=e387] [cursor=pointer]: Popularity
+            - generic [ref=e388] [cursor=pointer]: Price -- Low to High
+            - generic [ref=e389] [cursor=pointer]: Price -- High to Low
+            - generic [ref=e390] [cursor=pointer]: Newest First
+        - link "Samsung Galaxy S24 Ultra 5G (Titanium Black, 256 GB) Add to Compare Samsung Galaxy S24 Ultra 5G (Titanium Black, 256 GB) 4.6 5,444 Ratings & 444 Reviews • 12 GB RAM | 256 GB ROM • 17.27 cm (6.8 inch) Quad HD+ Display • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera • 5000 mAh Battery • Snapdragon 8 Gen 3 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹89,999 ₹1,34,999 33% off Only few left Upto ₹41,350 Off on Exchange" [ref=e395] [cursor=pointer]:
+          - /url: /samsung-galaxy-s24-ultra-5g-titanium-black-256-gb/p/itm60d6a4ba69e8c?pid=MOBGX2F3QGZYYZAK&lid=LSTMOBGX2F3QGZYYZAKCPF8HI&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBGX2F3QGZYYZAK.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e396] [cursor=pointer]:
+            - img "Samsung Galaxy S24 Ultra 5G (Titanium Black, 256 GB)" [ref=e400] [cursor=pointer]
+            - generic [ref=e407] [cursor=pointer]: Add to Compare
+            - img [ref=e410] [cursor=pointer]
+          - generic [ref=e412] [cursor=pointer]:
+            - generic [ref=e413] [cursor=pointer]:
+              - generic [ref=e414] [cursor=pointer]: Samsung Galaxy S24 Ultra 5G (Titanium Black, 256 GB)
+              - generic [ref=e415] [cursor=pointer]:
+                - generic [ref=e417] [cursor=pointer]:
+                  - text: "4.6"
+                  - img [ref=e418] [cursor=pointer]
+                - generic [ref=e420] [cursor=pointer]:
+                  - generic [ref=e421] [cursor=pointer]: 5,444 Ratings
+                  - generic [ref=e422] [cursor=pointer]: "&"
+                  - generic [ref=e423] [cursor=pointer]: 444 Reviews
+              - list [ref=e425] [cursor=pointer]:
+                - listitem [ref=e426] [cursor=pointer]: • 12 GB RAM | 256 GB ROM
+                - listitem [ref=e427] [cursor=pointer]: • 17.27 cm (6.8 inch) Quad HD+ Display
+                - listitem [ref=e428] [cursor=pointer]: • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera
+                - listitem [ref=e429] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e430] [cursor=pointer]: • Snapdragon 8 Gen 3 Processor
+                - listitem [ref=e431] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e432] [cursor=pointer]:
+              - generic [ref=e434] [cursor=pointer]:
+                - generic [ref=e435] [cursor=pointer]: ₹89,999
+                - generic [ref=e436] [cursor=pointer]: ₹1,34,999
+                - generic [ref=e438] [cursor=pointer]: 33% off
+              - img [ref=e440] [cursor=pointer]
+              - generic [ref=e443] [cursor=pointer]: Only few left
+              - generic [ref=e445] [cursor=pointer]:
+                - generic [ref=e446] [cursor=pointer]: Upto
+                - generic [ref=e447] [cursor=pointer]: ₹41,350
+                - generic [ref=e448] [cursor=pointer]: Off on Exchange
+        - link "Samsung Galaxy S24 Ultra 5G (Titanium Black, 256 GB) Add to Compare Samsung Galaxy S24 Ultra 5G (Titanium Black, 256 GB) 4.6 5,444 Ratings & 444 Reviews • 12 GB RAM | 256 GB ROM • 17.27 cm (6.8 inch) Quad HD+ Display • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera • 5000 mAh Battery • Snapdragon 8 Gen 3 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹82,999 ₹1,34,999 38% off Big Billion Days Price Only 1 left" [ref=e453] [cursor=pointer]:
+          - /url: /samsung-galaxy-s24-ultra-5g-titanium-black-256-gb/p/itm7d3b6b5d0f501?pid=MOBH3P4UM6ACEC2M&lid=LSTMOBH3P4UM6ACEC2M1KWCQC&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_2&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBH3P4UM6ACEC2M.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e454] [cursor=pointer]:
+            - img "Samsung Galaxy S24 Ultra 5G (Titanium Black, 256 GB)" [ref=e458] [cursor=pointer]
+            - generic [ref=e465] [cursor=pointer]: Add to Compare
+            - img [ref=e468] [cursor=pointer]
+          - generic [ref=e470] [cursor=pointer]:
+            - generic [ref=e471] [cursor=pointer]:
+              - generic [ref=e472] [cursor=pointer]: Samsung Galaxy S24 Ultra 5G (Titanium Black, 256 GB)
+              - generic [ref=e473] [cursor=pointer]:
+                - generic [ref=e475] [cursor=pointer]:
+                  - text: "4.6"
+                  - img [ref=e476] [cursor=pointer]
+                - generic [ref=e478] [cursor=pointer]:
+                  - generic [ref=e479] [cursor=pointer]: 5,444 Ratings
+                  - generic [ref=e480] [cursor=pointer]: "&"
+                  - generic [ref=e481] [cursor=pointer]: 444 Reviews
+              - list [ref=e483] [cursor=pointer]:
+                - listitem [ref=e484] [cursor=pointer]: • 12 GB RAM | 256 GB ROM
+                - listitem [ref=e485] [cursor=pointer]: • 17.27 cm (6.8 inch) Quad HD+ Display
+                - listitem [ref=e486] [cursor=pointer]: • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera
+                - listitem [ref=e487] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e488] [cursor=pointer]: • Snapdragon 8 Gen 3 Processor
+                - listitem [ref=e489] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e490] [cursor=pointer]:
+              - generic [ref=e492] [cursor=pointer]:
+                - generic [ref=e493] [cursor=pointer]: ₹82,999
+                - generic [ref=e494] [cursor=pointer]: ₹1,34,999
+                - generic [ref=e496] [cursor=pointer]: 38% off
+              - img [ref=e498] [cursor=pointer]
+              - generic [ref=e501] [cursor=pointer]: Big Billion Days Price
+              - generic [ref=e504] [cursor=pointer]: Only 1 left
+        - link "Samsung Galaxy S24 Ultra 5G (Titanium Black, 512 GB) Currently unavailable Add to Compare Samsung Galaxy S24 Ultra 5G (Titanium Black, 512 GB) 4.6 5,444 Ratings & 444 Reviews • 12 GB RAM | 512 GB ROM • 17.27 cm (6.8 inch) Quad HD+ Display • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera • 5000 mAh Battery • Snapdragon 8 Gen 3 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹1,18,999 ₹1,44,999 17% off Bank Offer" [active] [ref=e509] [cursor=pointer]:
+          - /url: /samsung-galaxy-s24-ultra-5g-titanium-black-512-gb/p/itmfde5d3afe6bda?pid=MOBGX2F32TYCRKMF&lid=LSTMOBGX2F32TYCRKMFNAIC1S&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_3&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBGX2F32TYCRKMF.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e510] [cursor=pointer]:
+            - generic [ref=e511] [cursor=pointer]:
+              - img "Samsung Galaxy S24 Ultra 5G (Titanium Black, 512 GB)" [ref=e514] [cursor=pointer]
+              - generic:
+                - generic: Currently unavailable
+            - generic [ref=e521] [cursor=pointer]: Add to Compare
+            - img [ref=e524] [cursor=pointer]
+          - generic [ref=e526] [cursor=pointer]:
+            - generic [ref=e527] [cursor=pointer]:
+              - generic [ref=e528] [cursor=pointer]: Samsung Galaxy S24 Ultra 5G (Titanium Black, 512 GB)
+              - generic [ref=e529] [cursor=pointer]:
+                - generic [ref=e531] [cursor=pointer]:
+                  - text: "4.6"
+                  - img [ref=e532] [cursor=pointer]
+                - generic [ref=e534] [cursor=pointer]:
+                  - generic [ref=e535] [cursor=pointer]: 5,444 Ratings
+                  - generic [ref=e536] [cursor=pointer]: "&"
+                  - generic [ref=e537] [cursor=pointer]: 444 Reviews
+              - list [ref=e539] [cursor=pointer]:
+                - listitem [ref=e540] [cursor=pointer]: • 12 GB RAM | 512 GB ROM
+                - listitem [ref=e541] [cursor=pointer]: • 17.27 cm (6.8 inch) Quad HD+ Display
+                - listitem [ref=e542] [cursor=pointer]: • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera
+                - listitem [ref=e543] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e544] [cursor=pointer]: • Snapdragon 8 Gen 3 Processor
+                - listitem [ref=e545] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e546] [cursor=pointer]:
+              - generic [ref=e548] [cursor=pointer]:
+                - generic [ref=e549] [cursor=pointer]: ₹1,18,999
+                - generic [ref=e550] [cursor=pointer]: ₹1,44,999
+                - generic [ref=e552] [cursor=pointer]: 17% off
+              - img [ref=e554] [cursor=pointer]
+              - generic [ref=e557] [cursor=pointer]: Bank Offer
+        - link "Samsung Galaxy S24 Ultra 5G (Titanium Violet, 256 GB) Add to Compare Samsung Galaxy S24 Ultra 5G (Titanium Violet, 256 GB) 4.6 5,444 Ratings & 444 Reviews • 12 GB RAM | 256 GB ROM • 17.27 cm (6.8 inch) Quad HD+ Display • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera • 5000 mAh Battery • Snapdragon 8 Gen 3 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹89,999 ₹1,34,999 33% off Only 4 left Upto ₹41,350 Off on Exchange" [ref=e562] [cursor=pointer]:
+          - /url: /samsung-galaxy-s24-ultra-5g-titanium-violet-256-gb/p/itm40a42309a03b1?pid=MOBH3P4UHZHQVRYT&lid=LSTMOBH3P4UHZHQVRYTQWBAXK&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_4&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBH3P4UHZHQVRYT.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e563] [cursor=pointer]:
+            - img "Samsung Galaxy S24 Ultra 5G (Titanium Violet, 256 GB)" [ref=e567] [cursor=pointer]
+            - generic [ref=e574] [cursor=pointer]: Add to Compare
+            - img [ref=e577] [cursor=pointer]
+          - generic [ref=e579] [cursor=pointer]:
+            - generic [ref=e580] [cursor=pointer]:
+              - generic [ref=e581] [cursor=pointer]: Samsung Galaxy S24 Ultra 5G (Titanium Violet, 256 GB)
+              - generic [ref=e582] [cursor=pointer]:
+                - generic [ref=e584] [cursor=pointer]:
+                  - text: "4.6"
+                  - img [ref=e585] [cursor=pointer]
+                - generic [ref=e587] [cursor=pointer]:
+                  - generic [ref=e588] [cursor=pointer]: 5,444 Ratings
+                  - generic [ref=e589] [cursor=pointer]: "&"
+                  - generic [ref=e590] [cursor=pointer]: 444 Reviews
+              - list [ref=e592] [cursor=pointer]:
+                - listitem [ref=e593] [cursor=pointer]: • 12 GB RAM | 256 GB ROM
+                - listitem [ref=e594] [cursor=pointer]: • 17.27 cm (6.8 inch) Quad HD+ Display
+                - listitem [ref=e595] [cursor=pointer]: • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera
+                - listitem [ref=e596] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e597] [cursor=pointer]: • Snapdragon 8 Gen 3 Processor
+                - listitem [ref=e598] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e599] [cursor=pointer]:
+              - generic [ref=e601] [cursor=pointer]:
+                - generic [ref=e602] [cursor=pointer]: ₹89,999
+                - generic [ref=e603] [cursor=pointer]: ₹1,34,999
+                - generic [ref=e605] [cursor=pointer]: 33% off
+              - img [ref=e607] [cursor=pointer]
+              - generic [ref=e610] [cursor=pointer]: Only 4 left
+              - generic [ref=e612] [cursor=pointer]:
+                - generic [ref=e613] [cursor=pointer]: Upto
+                - generic [ref=e614] [cursor=pointer]: ₹41,350
+                - generic [ref=e615] [cursor=pointer]: Off on Exchange
+        - link "Samsung Galaxy S24 Ultra 5G (Titanium Violet, 256 GB) Add to Compare Samsung Galaxy S24 Ultra 5G (Titanium Violet, 256 GB) 4.6 5,444 Ratings & 444 Reviews • 12 GB RAM | 256 GB ROM • 17.27 cm (6.8 inch) Quad HD+ Display • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera • 5000 mAh Battery • Snapdragon 8 Gen 3 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹1,19,999 ₹1,34,999 11% off Only 1 left Upto ₹41,350 Off on Exchange" [ref=e620] [cursor=pointer]:
+          - /url: /samsung-galaxy-s24-ultra-5g-titanium-violet-256-gb/p/itmd4f51262e3e6b?pid=MOBGX2F38JBJGZSE&lid=LSTMOBGX2F38JBJGZSEQTXTOR&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_5&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBGX2F38JBJGZSE.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e621] [cursor=pointer]:
+            - img "Samsung Galaxy S24 Ultra 5G (Titanium Violet, 256 GB)" [ref=e625] [cursor=pointer]
+            - generic [ref=e632] [cursor=pointer]: Add to Compare
+            - img [ref=e635] [cursor=pointer]
+          - generic [ref=e637] [cursor=pointer]:
+            - generic [ref=e638] [cursor=pointer]:
+              - generic [ref=e639] [cursor=pointer]: Samsung Galaxy S24 Ultra 5G (Titanium Violet, 256 GB)
+              - generic [ref=e640] [cursor=pointer]:
+                - generic [ref=e642] [cursor=pointer]:
+                  - text: "4.6"
+                  - img [ref=e643] [cursor=pointer]
+                - generic [ref=e645] [cursor=pointer]:
+                  - generic [ref=e646] [cursor=pointer]: 5,444 Ratings
+                  - generic [ref=e647] [cursor=pointer]: "&"
+                  - generic [ref=e648] [cursor=pointer]: 444 Reviews
+              - list [ref=e650] [cursor=pointer]:
+                - listitem [ref=e651] [cursor=pointer]: • 12 GB RAM | 256 GB ROM
+                - listitem [ref=e652] [cursor=pointer]: • 17.27 cm (6.8 inch) Quad HD+ Display
+                - listitem [ref=e653] [cursor=pointer]: • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera
+                - listitem [ref=e654] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e655] [cursor=pointer]: • Snapdragon 8 Gen 3 Processor
+                - listitem [ref=e656] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e657] [cursor=pointer]:
+              - generic [ref=e659] [cursor=pointer]:
+                - generic [ref=e660] [cursor=pointer]: ₹1,19,999
+                - generic [ref=e661] [cursor=pointer]: ₹1,34,999
+                - generic [ref=e663] [cursor=pointer]: 11% off
+              - img [ref=e665] [cursor=pointer]
+              - generic [ref=e668] [cursor=pointer]: Only 1 left
+              - generic [ref=e670] [cursor=pointer]:
+                - generic [ref=e671] [cursor=pointer]: Upto
+                - generic [ref=e672] [cursor=pointer]: ₹41,350
+                - generic [ref=e673] [cursor=pointer]: Off on Exchange
+        - link "Samsung Galaxy S24 Ultra 5G (Titanium Violet, 512 GB) Currently unavailable Add to Compare Samsung Galaxy S24 Ultra 5G (Titanium Violet, 512 GB) 4.6 5,444 Ratings & 444 Reviews • 12 GB RAM | 512 GB ROM • 17.27 cm (6.8 inch) Quad HD+ Display • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera • 5000 mAh Battery • Snapdragon 8 Gen 3 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹1,44,899 ₹1,44,999 Bank Offer" [ref=e678] [cursor=pointer]:
+          - /url: /samsung-galaxy-s24-ultra-5g-titanium-violet-512-gb/p/itm840a91e67ff4d?pid=MOBH3P4UGEHZTPMS&lid=LSTMOBH3P4UGEHZTPMS8G3COU&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_6&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBH3P4UGEHZTPMS.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e679] [cursor=pointer]:
+            - generic [ref=e680] [cursor=pointer]:
+              - img "Samsung Galaxy S24 Ultra 5G (Titanium Violet, 512 GB)" [ref=e683] [cursor=pointer]
+              - generic:
+                - generic: Currently unavailable
+            - generic [ref=e690] [cursor=pointer]: Add to Compare
+            - img [ref=e693] [cursor=pointer]
+          - generic [ref=e695] [cursor=pointer]:
+            - generic [ref=e696] [cursor=pointer]:
+              - generic [ref=e697] [cursor=pointer]: Samsung Galaxy S24 Ultra 5G (Titanium Violet, 512 GB)
+              - generic [ref=e698] [cursor=pointer]:
+                - generic [ref=e700] [cursor=pointer]:
+                  - text: "4.6"
+                  - img [ref=e701] [cursor=pointer]
+                - generic [ref=e703] [cursor=pointer]:
+                  - generic [ref=e704] [cursor=pointer]: 5,444 Ratings
+                  - generic [ref=e705] [cursor=pointer]: "&"
+                  - generic [ref=e706] [cursor=pointer]: 444 Reviews
+              - list [ref=e708] [cursor=pointer]:
+                - listitem [ref=e709] [cursor=pointer]: • 12 GB RAM | 512 GB ROM
+                - listitem [ref=e710] [cursor=pointer]: • 17.27 cm (6.8 inch) Quad HD+ Display
+                - listitem [ref=e711] [cursor=pointer]: • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera
+                - listitem [ref=e712] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e713] [cursor=pointer]: • Snapdragon 8 Gen 3 Processor
+                - listitem [ref=e714] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e715] [cursor=pointer]:
+              - generic [ref=e717] [cursor=pointer]:
+                - generic [ref=e718] [cursor=pointer]: ₹1,44,899
+                - generic [ref=e719] [cursor=pointer]: ₹1,44,999
+              - generic [ref=e722] [cursor=pointer]: Bank Offer
+        - link "Samsung Galaxy S24 Ultra 5G (Titanium Gray, 256 GB) Add to Compare Samsung Galaxy S24 Ultra 5G (Titanium Gray, 256 GB) 4.6 5,444 Ratings & 444 Reviews • 12 GB RAM | 256 GB ROM • 17.27 cm (6.8 inch) Quad HD+ Display • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera • 5000 mAh Battery • Snapdragon 8 Gen 3 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹81,699 ₹1,34,999 39% off Big Billion Days Price Only 1 left" [ref=e727] [cursor=pointer]:
+          - /url: /samsung-galaxy-s24-ultra-5g-titanium-gray-256-gb/p/itm12ef5ea0212ed?pid=MOBGX2F3RQKKKTAW&lid=LSTMOBGX2F3RQKKKTAWUQZTT5&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_7&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBGX2F3RQKKKTAW.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e728] [cursor=pointer]:
+            - img "Samsung Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)" [ref=e732] [cursor=pointer]
+            - generic [ref=e739] [cursor=pointer]: Add to Compare
+            - img [ref=e742] [cursor=pointer]
+          - generic [ref=e744] [cursor=pointer]:
+            - generic [ref=e745] [cursor=pointer]:
+              - generic [ref=e746] [cursor=pointer]: Samsung Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)
+              - generic [ref=e747] [cursor=pointer]:
+                - generic [ref=e749] [cursor=pointer]:
+                  - text: "4.6"
+                  - img [ref=e750] [cursor=pointer]
+                - generic [ref=e752] [cursor=pointer]:
+                  - generic [ref=e753] [cursor=pointer]: 5,444 Ratings
+                  - generic [ref=e754] [cursor=pointer]: "&"
+                  - generic [ref=e755] [cursor=pointer]: 444 Reviews
+              - list [ref=e757] [cursor=pointer]:
+                - listitem [ref=e758] [cursor=pointer]: • 12 GB RAM | 256 GB ROM
+                - listitem [ref=e759] [cursor=pointer]: • 17.27 cm (6.8 inch) Quad HD+ Display
+                - listitem [ref=e760] [cursor=pointer]: • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera
+                - listitem [ref=e761] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e762] [cursor=pointer]: • Snapdragon 8 Gen 3 Processor
+                - listitem [ref=e763] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e764] [cursor=pointer]:
+              - generic [ref=e766] [cursor=pointer]:
+                - generic [ref=e767] [cursor=pointer]: ₹81,699
+                - generic [ref=e768] [cursor=pointer]: ₹1,34,999
+                - generic [ref=e770] [cursor=pointer]: 39% off
+              - img [ref=e772] [cursor=pointer]
+              - generic [ref=e775] [cursor=pointer]: Big Billion Days Price
+              - generic [ref=e778] [cursor=pointer]: Only 1 left
+        - link "Samsung Galaxy S24 Ultra 5G (Titanium Gray, 512 GB) Currently unavailable Add to Compare Samsung Galaxy S24 Ultra 5G (Titanium Gray, 512 GB) 4.6 5,444 Ratings & 444 Reviews • 12 GB RAM | 512 GB ROM • 17.27 cm (6.8 inch) Quad HD+ Display • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera • 5000 mAh Battery • Snapdragon 8 Gen 3 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹1,02,000 ₹1,44,999 29% off Bank Offer" [ref=e783] [cursor=pointer]:
+          - /url: /samsung-galaxy-s24-ultra-5g-titanium-gray-512-gb/p/itm5762012bf24c4?pid=MOBH3P4UJM9DYASX&lid=LSTMOBH3P4UJM9DYASXFTG4YJ&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_8&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBH3P4UJM9DYASX.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e784] [cursor=pointer]:
+            - generic [ref=e785] [cursor=pointer]:
+              - img "Samsung Galaxy S24 Ultra 5G (Titanium Gray, 512 GB)" [ref=e788] [cursor=pointer]
+              - generic:
+                - generic: Currently unavailable
+            - generic [ref=e795] [cursor=pointer]: Add to Compare
+            - img [ref=e798] [cursor=pointer]
+          - generic [ref=e800] [cursor=pointer]:
+            - generic [ref=e801] [cursor=pointer]:
+              - generic [ref=e802] [cursor=pointer]: Samsung Galaxy S24 Ultra 5G (Titanium Gray, 512 GB)
+              - generic [ref=e803] [cursor=pointer]:
+                - generic [ref=e805] [cursor=pointer]:
+                  - text: "4.6"
+                  - img [ref=e806] [cursor=pointer]
+                - generic [ref=e808] [cursor=pointer]:
+                  - generic [ref=e809] [cursor=pointer]: 5,444 Ratings
+                  - generic [ref=e810] [cursor=pointer]: "&"
+                  - generic [ref=e811] [cursor=pointer]: 444 Reviews
+              - list [ref=e813] [cursor=pointer]:
+                - listitem [ref=e814] [cursor=pointer]: • 12 GB RAM | 512 GB ROM
+                - listitem [ref=e815] [cursor=pointer]: • 17.27 cm (6.8 inch) Quad HD+ Display
+                - listitem [ref=e816] [cursor=pointer]: • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera
+                - listitem [ref=e817] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e818] [cursor=pointer]: • Snapdragon 8 Gen 3 Processor
+                - listitem [ref=e819] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e820] [cursor=pointer]:
+              - generic [ref=e822] [cursor=pointer]:
+                - generic [ref=e823] [cursor=pointer]: ₹1,02,000
+                - generic [ref=e824] [cursor=pointer]: ₹1,44,999
+                - generic [ref=e826] [cursor=pointer]: 29% off
+              - generic [ref=e829] [cursor=pointer]: Bank Offer
+        - link "Samsung Galaxy S24 Ultra 5G (Titanium Orange, 256 GB) Currently unavailable Add to Compare Samsung Galaxy S24 Ultra 5G (Titanium Orange, 256 GB) 4.6 5,444 Ratings & 444 Reviews • 12 GB RAM | 256 GB ROM • 17.27 cm (6.8 inch) Quad HD+ Display • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera • 5000 mAh Battery • Snapdragon 8 Gen 3 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹1,34,990 ₹1,34,999 Bank Offer" [ref=e834] [cursor=pointer]:
+          - /url: /samsung-galaxy-s24-ultra-5g-titanium-orange-256-gb/p/itmb8642f7449e74?pid=MOBH6S45KUFTSZQY&lid=LSTMOBH6S45KUFTSZQYUPHW3L&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_9&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBH6S45KUFTSZQY.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e835] [cursor=pointer]:
+            - generic [ref=e836] [cursor=pointer]:
+              - img "Samsung Galaxy S24 Ultra 5G (Titanium Orange, 256 GB)" [ref=e839] [cursor=pointer]
+              - generic:
+                - generic: Currently unavailable
+            - generic [ref=e846] [cursor=pointer]: Add to Compare
+            - img [ref=e849] [cursor=pointer]
+          - generic [ref=e851] [cursor=pointer]:
+            - generic [ref=e852] [cursor=pointer]:
+              - generic [ref=e853] [cursor=pointer]: Samsung Galaxy S24 Ultra 5G (Titanium Orange, 256 GB)
+              - generic [ref=e854] [cursor=pointer]:
+                - generic [ref=e856] [cursor=pointer]:
+                  - text: "4.6"
+                  - img [ref=e857] [cursor=pointer]
+                - generic [ref=e859] [cursor=pointer]:
+                  - generic [ref=e860] [cursor=pointer]: 5,444 Ratings
+                  - generic [ref=e861] [cursor=pointer]: "&"
+                  - generic [ref=e862] [cursor=pointer]: 444 Reviews
+              - list [ref=e864] [cursor=pointer]:
+                - listitem [ref=e865] [cursor=pointer]: • 12 GB RAM | 256 GB ROM
+                - listitem [ref=e866] [cursor=pointer]: • 17.27 cm (6.8 inch) Quad HD+ Display
+                - listitem [ref=e867] [cursor=pointer]: • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera
+                - listitem [ref=e868] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e869] [cursor=pointer]: • Snapdragon 8 Gen 3 Processor
+                - listitem [ref=e870] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e871] [cursor=pointer]:
+              - generic [ref=e873] [cursor=pointer]:
+                - generic [ref=e874] [cursor=pointer]: ₹1,34,990
+                - generic [ref=e875] [cursor=pointer]: ₹1,34,999
+              - generic [ref=e878] [cursor=pointer]: Bank Offer
+        - link "Samsung Galaxy S24 Ultra 5G (Titanium Gray, 512 GB) Add to Compare Samsung Galaxy S24 Ultra 5G (Titanium Gray, 512 GB) 4.6 5,444 Ratings & 444 Reviews • 12 GB RAM | 512 GB ROM • 17.27 cm (6.8 inch) Quad HD+ Display • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera • 5000 mAh Battery • Snapdragon 8 Gen 3 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹1,29,999 ₹1,44,999 10% off Only few left Upto ₹41,350 Off on Exchange" [ref=e883] [cursor=pointer]:
+          - /url: /samsung-galaxy-s24-ultra-5g-titanium-gray-512-gb/p/itm463827d6eb2be?pid=MOBGX2F3XNW3HK8K&lid=LSTMOBGX2F3XNW3HK8KEJDXPP&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_10&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBGX2F3XNW3HK8K.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e884] [cursor=pointer]:
+            - img "Samsung Galaxy S24 Ultra 5G (Titanium Gray, 512 GB)" [ref=e888] [cursor=pointer]
+            - generic [ref=e895] [cursor=pointer]: Add to Compare
+            - img [ref=e898] [cursor=pointer]
+          - generic [ref=e900] [cursor=pointer]:
+            - generic [ref=e901] [cursor=pointer]:
+              - generic [ref=e902] [cursor=pointer]: Samsung Galaxy S24 Ultra 5G (Titanium Gray, 512 GB)
+              - generic [ref=e903] [cursor=pointer]:
+                - generic [ref=e905] [cursor=pointer]:
+                  - text: "4.6"
+                  - img [ref=e906] [cursor=pointer]
+                - generic [ref=e908] [cursor=pointer]:
+                  - generic [ref=e909] [cursor=pointer]: 5,444 Ratings
+                  - generic [ref=e910] [cursor=pointer]: "&"
+                  - generic [ref=e911] [cursor=pointer]: 444 Reviews
+              - list [ref=e913] [cursor=pointer]:
+                - listitem [ref=e914] [cursor=pointer]: • 12 GB RAM | 512 GB ROM
+                - listitem [ref=e915] [cursor=pointer]: • 17.27 cm (6.8 inch) Quad HD+ Display
+                - listitem [ref=e916] [cursor=pointer]: • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera
+                - listitem [ref=e917] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e918] [cursor=pointer]: • Snapdragon 8 Gen 3 Processor
+                - listitem [ref=e919] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e920] [cursor=pointer]:
+              - generic [ref=e922] [cursor=pointer]:
+                - generic [ref=e923] [cursor=pointer]: ₹1,29,999
+                - generic [ref=e924] [cursor=pointer]: ₹1,44,999
+                - generic [ref=e926] [cursor=pointer]: 10% off
+              - img [ref=e928] [cursor=pointer]
+              - generic [ref=e931] [cursor=pointer]: Only few left
+              - generic [ref=e933] [cursor=pointer]:
+                - generic [ref=e934] [cursor=pointer]: Upto
+                - generic [ref=e935] [cursor=pointer]: ₹41,350
+                - generic [ref=e936] [cursor=pointer]: Off on Exchange
+        - link "Samsung Galaxy S24 Ultra 5G (Titanium Gray, 1 TB) Currently unavailable Add to Compare Samsung Galaxy S24 Ultra 5G (Titanium Gray, 1 TB) 4.6 5,444 Ratings & 444 Reviews • 12 GB RAM | 1 TB ROM • 17.27 cm (6.8 inch) Quad HD+ Display • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera • 5000 mAh Battery • Snapdragon 8 Gen 3 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹1,49,999 ₹1,64,999 9% off Upto ₹41,350 Off on Exchange Bank Offer" [ref=e941] [cursor=pointer]:
+          - /url: /samsung-galaxy-s24-ultra-5g-titanium-gray-1-tb/p/itm1bb57d54d6473?pid=MOBGX2F3YAKBFZJB&lid=LSTMOBGX2F3YAKBFZJBKRLUS2&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_11&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBGX2F3YAKBFZJB.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e942] [cursor=pointer]:
+            - generic [ref=e943] [cursor=pointer]:
+              - img "Samsung Galaxy S24 Ultra 5G (Titanium Gray, 1 TB)" [ref=e946] [cursor=pointer]
+              - generic:
+                - generic: Currently unavailable
+            - generic [ref=e953] [cursor=pointer]: Add to Compare
+            - img [ref=e956] [cursor=pointer]
+          - generic [ref=e958] [cursor=pointer]:
+            - generic [ref=e959] [cursor=pointer]:
+              - generic [ref=e960] [cursor=pointer]: Samsung Galaxy S24 Ultra 5G (Titanium Gray, 1 TB)
+              - generic [ref=e961] [cursor=pointer]:
+                - generic [ref=e963] [cursor=pointer]:
+                  - text: "4.6"
+                  - img [ref=e964] [cursor=pointer]
+                - generic [ref=e966] [cursor=pointer]:
+                  - generic [ref=e967] [cursor=pointer]: 5,444 Ratings
+                  - generic [ref=e968] [cursor=pointer]: "&"
+                  - generic [ref=e969] [cursor=pointer]: 444 Reviews
+              - list [ref=e971] [cursor=pointer]:
+                - listitem [ref=e972] [cursor=pointer]: • 12 GB RAM | 1 TB ROM
+                - listitem [ref=e973] [cursor=pointer]: • 17.27 cm (6.8 inch) Quad HD+ Display
+                - listitem [ref=e974] [cursor=pointer]: • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera
+                - listitem [ref=e975] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e976] [cursor=pointer]: • Snapdragon 8 Gen 3 Processor
+                - listitem [ref=e977] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e978] [cursor=pointer]:
+              - generic [ref=e980] [cursor=pointer]:
+                - generic [ref=e981] [cursor=pointer]: ₹1,49,999
+                - generic [ref=e982] [cursor=pointer]: ₹1,64,999
+                - generic [ref=e984] [cursor=pointer]: 9% off
+              - img [ref=e986] [cursor=pointer]
+              - generic [ref=e988] [cursor=pointer]:
+                - generic [ref=e989] [cursor=pointer]: Upto
+                - generic [ref=e990] [cursor=pointer]: ₹41,350
+                - generic [ref=e991] [cursor=pointer]: Off on Exchange
+              - generic [ref=e994] [cursor=pointer]: Bank Offer
+        - link "Samsung Galaxy S24 FE 5G (Graphite, 256 GB) Add to Compare Samsung Galaxy S24 FE 5G (Graphite, 256 GB) 4.5 15,957 Ratings & 1,207 Reviews • 8 GB RAM | 256 GB ROM • 17.02 cm (6.7 inch) Full HD+ Display • 50MP + 12MP | 10MP Front Camera • 4700 mAh Battery • Exynos 2400e Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹45,999 ₹65,999 30% off Upto ₹32,550 Off on Exchange Bank Offer" [ref=e999] [cursor=pointer]:
+          - /url: /samsung-galaxy-s24-fe-5g-graphite-256-gb/p/itme960199e26f23?pid=MOBH4ZG3KPRR7HWZ&lid=LSTMOBH4ZG3KPRR7HWZWYHPPG&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&spotlightTagId=default_BestsellerId_tyy%2F4io&srno=s_1_12&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBH4ZG3KPRR7HWZ.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e1000] [cursor=pointer]:
+            - img "Samsung Galaxy S24 FE 5G (Graphite, 256 GB)" [ref=e1004] [cursor=pointer]
+            - generic [ref=e1011] [cursor=pointer]: Add to Compare
+            - img [ref=e1014] [cursor=pointer]
+          - generic [ref=e1016] [cursor=pointer]:
+            - generic [ref=e1017] [cursor=pointer]:
+              - generic [ref=e1018] [cursor=pointer]: Samsung Galaxy S24 FE 5G (Graphite, 256 GB)
+              - generic [ref=e1019] [cursor=pointer]:
+                - generic [ref=e1021] [cursor=pointer]:
+                  - text: "4.5"
+                  - img [ref=e1022] [cursor=pointer]
+                - generic [ref=e1024] [cursor=pointer]:
+                  - generic [ref=e1025] [cursor=pointer]: 15,957 Ratings
+                  - generic [ref=e1026] [cursor=pointer]: "&"
+                  - generic [ref=e1027] [cursor=pointer]: 1,207 Reviews
+              - list [ref=e1029] [cursor=pointer]:
+                - listitem [ref=e1030] [cursor=pointer]: • 8 GB RAM | 256 GB ROM
+                - listitem [ref=e1031] [cursor=pointer]: • 17.02 cm (6.7 inch) Full HD+ Display
+                - listitem [ref=e1032] [cursor=pointer]: • 50MP + 12MP | 10MP Front Camera
+                - listitem [ref=e1033] [cursor=pointer]: • 4700 mAh Battery
+                - listitem [ref=e1034] [cursor=pointer]: • Exynos 2400e Processor
+                - listitem [ref=e1035] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e1036] [cursor=pointer]:
+              - generic [ref=e1038] [cursor=pointer]:
+                - generic [ref=e1039] [cursor=pointer]: ₹45,999
+                - generic [ref=e1040] [cursor=pointer]: ₹65,999
+                - generic [ref=e1042] [cursor=pointer]: 30% off
+              - img [ref=e1044] [cursor=pointer]
+              - generic [ref=e1046] [cursor=pointer]:
+                - generic [ref=e1047] [cursor=pointer]: Upto
+                - generic [ref=e1048] [cursor=pointer]: ₹32,550
+                - generic [ref=e1049] [cursor=pointer]: Off on Exchange
+              - generic [ref=e1052] [cursor=pointer]: Bank Offer
+        - link "Samsung M55s (Thunder Black, 128 GB) Add to Compare Samsung M55s (Thunder Black, 128 GB) 4.1 238 Ratings & 17 Reviews • 8 GB RAM | 128 GB ROM • 17.02 cm (6.7 inch) Full HD+ Display • 50MP Rear Camera • 5000 mAh Battery • snapdragon Processor • 1 Year ₹17,399 ₹28,999 40% off Only few left Upto ₹12,050 Off on Exchange" [ref=e1057] [cursor=pointer]:
+          - /url: /samsung-m55s-thunder-black-128-gb/p/itm8f413dae3cfac?pid=MOBH549ARXFXDBHG&lid=LSTMOBH549ARXFXDBHGZFXC4E&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_13&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBH549ARXFXDBHG.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e1058] [cursor=pointer]:
+            - img "Samsung M55s (Thunder Black, 128 GB)" [ref=e1062] [cursor=pointer]
+            - generic [ref=e1069] [cursor=pointer]: Add to Compare
+            - img [ref=e1072] [cursor=pointer]
+          - generic [ref=e1074] [cursor=pointer]:
+            - generic [ref=e1075] [cursor=pointer]:
+              - generic [ref=e1076] [cursor=pointer]: Samsung M55s (Thunder Black, 128 GB)
+              - generic [ref=e1077] [cursor=pointer]:
+                - generic [ref=e1079] [cursor=pointer]:
+                  - text: "4.1"
+                  - img [ref=e1080] [cursor=pointer]
+                - generic [ref=e1082] [cursor=pointer]:
+                  - generic [ref=e1083] [cursor=pointer]: 238 Ratings
+                  - generic [ref=e1084] [cursor=pointer]: "&"
+                  - generic [ref=e1085] [cursor=pointer]: 17 Reviews
+              - list [ref=e1087] [cursor=pointer]:
+                - listitem [ref=e1088] [cursor=pointer]: • 8 GB RAM | 128 GB ROM
+                - listitem [ref=e1089] [cursor=pointer]: • 17.02 cm (6.7 inch) Full HD+ Display
+                - listitem [ref=e1090] [cursor=pointer]: • 50MP Rear Camera
+                - listitem [ref=e1091] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e1092] [cursor=pointer]: • snapdragon Processor
+                - listitem [ref=e1093] [cursor=pointer]: • 1 Year
+            - generic [ref=e1094] [cursor=pointer]:
+              - generic [ref=e1096] [cursor=pointer]:
+                - generic [ref=e1097] [cursor=pointer]: ₹17,399
+                - generic [ref=e1098] [cursor=pointer]: ₹28,999
+                - generic [ref=e1100] [cursor=pointer]: 40% off
+              - img [ref=e1102] [cursor=pointer]
+              - generic [ref=e1105] [cursor=pointer]: Only few left
+              - generic [ref=e1107] [cursor=pointer]:
+                - generic [ref=e1108] [cursor=pointer]: Upto
+                - generic [ref=e1109] [cursor=pointer]: ₹12,050
+                - generic [ref=e1110] [cursor=pointer]: Off on Exchange
+        - link "Samsung Galaxy A05s (Black, 128 GB) Currently unavailable Add to Compare Samsung Galaxy A05s (Black, 128 GB) 4.1 233 Ratings & 11 Reviews • 6 GB RAM | 128 GB ROM | Expandable Upto 1 TB • 17.07 cm (6.72 inch) Full HD+ Display • 50MP + 2MP + 2MP | 13MP Front Camera • 5000 mAh Battery • 680 Processor • 1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories ₹9,999 ₹18,999 47% off Big Billion Days Price Bank Offer" [ref=e1115] [cursor=pointer]:
+          - /url: /samsung-galaxy-a05s-black-128-gb/p/itm12ab68373c8ad?pid=MOBGTZ6W2QZBPAPX&lid=LSTMOBGTZ6W2QZBPAPXI6LQKE&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_14&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBGTZ6W2QZBPAPX.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e1116] [cursor=pointer]:
+            - generic [ref=e1117] [cursor=pointer]:
+              - img "Samsung Galaxy A05s (Black, 128 GB)" [ref=e1120] [cursor=pointer]
+              - generic:
+                - generic: Currently unavailable
+            - generic [ref=e1127] [cursor=pointer]: Add to Compare
+            - img [ref=e1130] [cursor=pointer]
+          - generic [ref=e1132] [cursor=pointer]:
+            - generic [ref=e1133] [cursor=pointer]:
+              - generic [ref=e1134] [cursor=pointer]: Samsung Galaxy A05s (Black, 128 GB)
+              - generic [ref=e1135] [cursor=pointer]:
+                - generic [ref=e1137] [cursor=pointer]:
+                  - text: "4.1"
+                  - img [ref=e1138] [cursor=pointer]
+                - generic [ref=e1140] [cursor=pointer]:
+                  - generic [ref=e1141] [cursor=pointer]: 233 Ratings
+                  - generic [ref=e1142] [cursor=pointer]: "&"
+                  - generic [ref=e1143] [cursor=pointer]: 11 Reviews
+              - list [ref=e1145] [cursor=pointer]:
+                - listitem [ref=e1146] [cursor=pointer]: • 6 GB RAM | 128 GB ROM | Expandable Upto 1 TB
+                - listitem [ref=e1147] [cursor=pointer]: • 17.07 cm (6.72 inch) Full HD+ Display
+                - listitem [ref=e1148] [cursor=pointer]: • 50MP + 2MP + 2MP | 13MP Front Camera
+                - listitem [ref=e1149] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e1150] [cursor=pointer]: • 680 Processor
+                - listitem [ref=e1151] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories
+            - generic [ref=e1152] [cursor=pointer]:
+              - generic [ref=e1154] [cursor=pointer]:
+                - generic [ref=e1155] [cursor=pointer]: ₹9,999
+                - generic [ref=e1156] [cursor=pointer]: ₹18,999
+                - generic [ref=e1158] [cursor=pointer]: 47% off
+              - img [ref=e1160] [cursor=pointer]
+              - generic [ref=e1163] [cursor=pointer]: Big Billion Days Price
+              - generic [ref=e1166] [cursor=pointer]: Bank Offer
+        - link "Samsung Galaxy S24+ 5G (Onyx Black, 256 GB) Add to Compare Samsung Galaxy S24+ 5G (Onyx Black, 256 GB) 4.5 11,872 Ratings & 881 Reviews • 12 GB RAM | 256 GB ROM • 17.02 cm (6.7 inch) Quad HD+ Display • 50MP + 10MP + 12MP | 12MP Front Camera • 4900 mAh Battery • Exynos 2400 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹59,999 ₹99,999 40% off Only few left Upto ₹41,350 Off on Exchange" [ref=e1171] [cursor=pointer]:
+          - /url: /samsung-galaxy-s24-5g-onyx-black-256-gb/p/itm325da4a26d7bb?pid=MOBGX2F3HVJYNHUV&lid=LSTMOBGX2F3HVJYNHUVPMFBMF&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_15&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBGX2F3HVJYNHUV.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e1172] [cursor=pointer]:
+            - img "Samsung Galaxy S24+ 5G (Onyx Black, 256 GB)" [ref=e1176] [cursor=pointer]
+            - generic [ref=e1183] [cursor=pointer]: Add to Compare
+            - img [ref=e1186] [cursor=pointer]
+          - generic [ref=e1188] [cursor=pointer]:
+            - generic [ref=e1189] [cursor=pointer]:
+              - generic [ref=e1190] [cursor=pointer]: Samsung Galaxy S24+ 5G (Onyx Black, 256 GB)
+              - generic [ref=e1191] [cursor=pointer]:
+                - generic [ref=e1193] [cursor=pointer]:
+                  - text: "4.5"
+                  - img [ref=e1194] [cursor=pointer]
+                - generic [ref=e1196] [cursor=pointer]:
+                  - generic [ref=e1197] [cursor=pointer]: 11,872 Ratings
+                  - generic [ref=e1198] [cursor=pointer]: "&"
+                  - generic [ref=e1199] [cursor=pointer]: 881 Reviews
+              - list [ref=e1201] [cursor=pointer]:
+                - listitem [ref=e1202] [cursor=pointer]: • 12 GB RAM | 256 GB ROM
+                - listitem [ref=e1203] [cursor=pointer]: • 17.02 cm (6.7 inch) Quad HD+ Display
+                - listitem [ref=e1204] [cursor=pointer]: • 50MP + 10MP + 12MP | 12MP Front Camera
+                - listitem [ref=e1205] [cursor=pointer]: • 4900 mAh Battery
+                - listitem [ref=e1206] [cursor=pointer]: • Exynos 2400 Processor
+                - listitem [ref=e1207] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e1208] [cursor=pointer]:
+              - generic [ref=e1210] [cursor=pointer]:
+                - generic [ref=e1211] [cursor=pointer]: ₹59,999
+                - generic [ref=e1212] [cursor=pointer]: ₹99,999
+                - generic [ref=e1214] [cursor=pointer]: 40% off
+              - img [ref=e1216] [cursor=pointer]
+              - generic [ref=e1219] [cursor=pointer]: Only few left
+              - generic [ref=e1221] [cursor=pointer]:
+                - generic [ref=e1222] [cursor=pointer]: Upto
+                - generic [ref=e1223] [cursor=pointer]: ₹41,350
+                - generic [ref=e1224] [cursor=pointer]: Off on Exchange
+        - link "Samsung Galaxy S24 5G Snapdragon (Cobalt Violet, 256 GB) Add to Compare Samsung Galaxy S24 5G Snapdragon (Cobalt Violet, 256 GB) 4.6 8,042 Ratings & 438 Reviews • 8 GB RAM | 256 GB ROM • 15.75 cm (6.2 inch) Full HD+ Display • 50MP + 12MP | 12MP Front Camera • 4000 mAh Battery • 8 Gen 3 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹70,999 ₹79,999 11% off Upto ₹41,350 Off on Exchange Bank Offer" [ref=e1229] [cursor=pointer]:
+          - /url: /samsung-galaxy-s24-5g-snapdragon-cobalt-violet-256-gb/p/itm0e4552c03ca7c?pid=MOBHDVFKKYGS2K9T&lid=LSTMOBHDVFKKYGS2K9TEOX3VK&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&spotlightTagId=default_TrendingId_tyy%2F4io&srno=s_1_16&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBHDVFKKYGS2K9T.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e1230] [cursor=pointer]:
+            - img "Samsung Galaxy S24 5G Snapdragon (Cobalt Violet, 256 GB)" [ref=e1234] [cursor=pointer]
+            - generic [ref=e1241] [cursor=pointer]: Add to Compare
+            - img [ref=e1244] [cursor=pointer]
+          - generic [ref=e1246] [cursor=pointer]:
+            - generic [ref=e1247] [cursor=pointer]:
+              - generic [ref=e1248] [cursor=pointer]: Samsung Galaxy S24 5G Snapdragon (Cobalt Violet, 256 GB)
+              - generic [ref=e1249] [cursor=pointer]:
+                - generic [ref=e1251] [cursor=pointer]:
+                  - text: "4.6"
+                  - img [ref=e1252] [cursor=pointer]
+                - generic [ref=e1254] [cursor=pointer]:
+                  - generic [ref=e1255] [cursor=pointer]: 8,042 Ratings
+                  - generic [ref=e1256] [cursor=pointer]: "&"
+                  - generic [ref=e1257] [cursor=pointer]: 438 Reviews
+              - list [ref=e1259] [cursor=pointer]:
+                - listitem [ref=e1260] [cursor=pointer]: • 8 GB RAM | 256 GB ROM
+                - listitem [ref=e1261] [cursor=pointer]: • 15.75 cm (6.2 inch) Full HD+ Display
+                - listitem [ref=e1262] [cursor=pointer]: • 50MP + 12MP | 12MP Front Camera
+                - listitem [ref=e1263] [cursor=pointer]: • 4000 mAh Battery
+                - listitem [ref=e1264] [cursor=pointer]: • 8 Gen 3 Processor
+                - listitem [ref=e1265] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e1266] [cursor=pointer]:
+              - generic [ref=e1268] [cursor=pointer]:
+                - generic [ref=e1269] [cursor=pointer]: ₹70,999
+                - generic [ref=e1270] [cursor=pointer]: ₹79,999
+                - generic [ref=e1272] [cursor=pointer]: 11% off
+              - img [ref=e1274] [cursor=pointer]
+              - generic [ref=e1276] [cursor=pointer]:
+                - generic [ref=e1277] [cursor=pointer]: Upto
+                - generic [ref=e1278] [cursor=pointer]: ₹41,350
+                - generic [ref=e1279] [cursor=pointer]: Off on Exchange
+              - generic [ref=e1282] [cursor=pointer]: Bank Offer
+        - link "Samsung Galaxy A03s (Black, 32 GB) Add to Compare Samsung Galaxy A03s (Black, 32 GB) 4 490 Ratings & 36 Reviews • 3 GB RAM | 32 GB ROM | Expandable Upto 1 TB • 16.51 cm (6.5 inch) HD+ Display • 13MP + 2MP + 2MP | 5MP Front Camera • 5000 mAh Lithium-ion Battery • Mediatek Helio P35 (MT6765) Processor • 1 Year Warranty Provided by the Manufacturer From Date of Purchase ₹9,999 ₹14,999 33% off Only 1 left Bank Offer" [ref=e1287] [cursor=pointer]:
+          - /url: /samsung-galaxy-a03s-black-32-gb/p/itm5c05090098184?pid=MOBG5NK9UZT8TYZU&lid=LSTMOBG5NK9UZT8TYZUP4Q67Q&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_17&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBG5NK9UZT8TYZU.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e1288] [cursor=pointer]:
+            - img "Samsung Galaxy A03s (Black, 32 GB)" [ref=e1292] [cursor=pointer]
+            - generic [ref=e1299] [cursor=pointer]: Add to Compare
+            - img [ref=e1302] [cursor=pointer]
+          - generic [ref=e1304] [cursor=pointer]:
+            - generic [ref=e1305] [cursor=pointer]:
+              - generic [ref=e1306] [cursor=pointer]: Samsung Galaxy A03s (Black, 32 GB)
+              - generic [ref=e1307] [cursor=pointer]:
+                - generic [ref=e1309] [cursor=pointer]:
+                  - text: "4"
+                  - img [ref=e1310] [cursor=pointer]
+                - generic [ref=e1312] [cursor=pointer]:
+                  - generic [ref=e1313] [cursor=pointer]: 490 Ratings
+                  - generic [ref=e1314] [cursor=pointer]: "&"
+                  - generic [ref=e1315] [cursor=pointer]: 36 Reviews
+              - list [ref=e1317] [cursor=pointer]:
+                - listitem [ref=e1318] [cursor=pointer]: • 3 GB RAM | 32 GB ROM | Expandable Upto 1 TB
+                - listitem [ref=e1319] [cursor=pointer]: • 16.51 cm (6.5 inch) HD+ Display
+                - listitem [ref=e1320] [cursor=pointer]: • 13MP + 2MP + 2MP | 5MP Front Camera
+                - listitem [ref=e1321] [cursor=pointer]: • 5000 mAh Lithium-ion Battery
+                - listitem [ref=e1322] [cursor=pointer]: • Mediatek Helio P35 (MT6765) Processor
+                - listitem [ref=e1323] [cursor=pointer]: • 1 Year Warranty Provided by the Manufacturer From Date of Purchase
+            - generic [ref=e1324] [cursor=pointer]:
+              - generic [ref=e1326] [cursor=pointer]:
+                - generic [ref=e1327] [cursor=pointer]: ₹9,999
+                - generic [ref=e1328] [cursor=pointer]: ₹14,999
+                - generic [ref=e1330] [cursor=pointer]: 33% off
+              - img [ref=e1332] [cursor=pointer]
+              - generic [ref=e1335] [cursor=pointer]: Only 1 left
+              - generic [ref=e1338] [cursor=pointer]: Bank Offer
+        - link "Samsung Galaxy S24+ 5G (Onyx Black, 512 GB) Currently unavailable Add to Compare Samsung Galaxy S24+ 5G (Onyx Black, 512 GB) 4.5 11,872 Ratings & 881 Reviews • 12 GB RAM | 512 GB ROM • 17.02 cm (6.7 inch) Quad HD+ Display • 50MP + 10MP + 12MP | 12MP Front Camera • 4900 mAh Battery • Exynos 2400 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹1,04,999 ₹1,09,999 4% off Upto ₹41,350 Off on Exchange Bank Offer" [ref=e1343] [cursor=pointer]:
+          - /url: /samsung-galaxy-s24-5g-onyx-black-512-gb/p/itme2d93d42550ad?pid=MOBGX2F3YAZ6MRCQ&lid=LSTMOBGX2F3YAZ6MRCQFU5NRH&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_18&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBGX2F3YAZ6MRCQ.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e1344] [cursor=pointer]:
+            - generic [ref=e1345] [cursor=pointer]:
+              - img "Samsung Galaxy S24+ 5G (Onyx Black, 512 GB)" [ref=e1348] [cursor=pointer]
+              - generic:
+                - generic: Currently unavailable
+            - generic [ref=e1355] [cursor=pointer]: Add to Compare
+            - img [ref=e1358] [cursor=pointer]
+          - generic [ref=e1360] [cursor=pointer]:
+            - generic [ref=e1361] [cursor=pointer]:
+              - generic [ref=e1362] [cursor=pointer]: Samsung Galaxy S24+ 5G (Onyx Black, 512 GB)
+              - generic [ref=e1363] [cursor=pointer]:
+                - generic [ref=e1365] [cursor=pointer]:
+                  - text: "4.5"
+                  - img [ref=e1366] [cursor=pointer]
+                - generic [ref=e1368] [cursor=pointer]:
+                  - generic [ref=e1369] [cursor=pointer]: 11,872 Ratings
+                  - generic [ref=e1370] [cursor=pointer]: "&"
+                  - generic [ref=e1371] [cursor=pointer]: 881 Reviews
+              - list [ref=e1373] [cursor=pointer]:
+                - listitem [ref=e1374] [cursor=pointer]: • 12 GB RAM | 512 GB ROM
+                - listitem [ref=e1375] [cursor=pointer]: • 17.02 cm (6.7 inch) Quad HD+ Display
+                - listitem [ref=e1376] [cursor=pointer]: • 50MP + 10MP + 12MP | 12MP Front Camera
+                - listitem [ref=e1377] [cursor=pointer]: • 4900 mAh Battery
+                - listitem [ref=e1378] [cursor=pointer]: • Exynos 2400 Processor
+                - listitem [ref=e1379] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e1380] [cursor=pointer]:
+              - generic [ref=e1382] [cursor=pointer]:
+                - generic [ref=e1383] [cursor=pointer]: ₹1,04,999
+                - generic [ref=e1384] [cursor=pointer]: ₹1,09,999
+                - generic [ref=e1386] [cursor=pointer]: 4% off
+              - img [ref=e1388] [cursor=pointer]
+              - generic [ref=e1390] [cursor=pointer]:
+                - generic [ref=e1391] [cursor=pointer]: Upto
+                - generic [ref=e1392] [cursor=pointer]: ₹41,350
+                - generic [ref=e1393] [cursor=pointer]: Off on Exchange
+              - generic [ref=e1396] [cursor=pointer]: Bank Offer
+        - link "Samsung Galaxy A06s 5G (Black, 128 GB) Currently unavailable Add to Compare Samsung Galaxy A06s 5G (Black, 128 GB) • 4 GB RAM | 128 GB ROM | Expandable Upto 1 TB • 17.02 cm (6.7 inch) HD+ Display • 50MP + 50MP | 2MP + 2MP Dual Front Camera • 5000 mAh Battery • MEDIATEK Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹14,999 ₹15,999 6% off Bank Offer" [ref=e1401] [cursor=pointer]:
+          - /url: /samsung-galaxy-a06s-5g-black-128-gb/p/itme9f8b98ef53da?pid=MOBHB987Z4XZHXFT&lid=LSTMOBHB987Z4XZHXFT0FXWOV&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_19&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBHB987Z4XZHXFT.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e1402] [cursor=pointer]:
+            - generic [ref=e1403] [cursor=pointer]:
+              - img "Samsung Galaxy A06s 5G (Black, 128 GB)" [ref=e1406] [cursor=pointer]
+              - generic:
+                - generic: Currently unavailable
+            - generic [ref=e1413] [cursor=pointer]: Add to Compare
+            - img [ref=e1416] [cursor=pointer]
+          - generic [ref=e1418] [cursor=pointer]:
+            - generic [ref=e1419] [cursor=pointer]:
+              - generic [ref=e1420] [cursor=pointer]: Samsung Galaxy A06s 5G (Black, 128 GB)
+              - list [ref=e1422] [cursor=pointer]:
+                - listitem [ref=e1423] [cursor=pointer]: • 4 GB RAM | 128 GB ROM | Expandable Upto 1 TB
+                - listitem [ref=e1424] [cursor=pointer]: • 17.02 cm (6.7 inch) HD+ Display
+                - listitem [ref=e1425] [cursor=pointer]: • 50MP + 50MP | 2MP + 2MP Dual Front Camera
+                - listitem [ref=e1426] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e1427] [cursor=pointer]: • MEDIATEK Processor
+                - listitem [ref=e1428] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e1429] [cursor=pointer]:
+              - generic [ref=e1431] [cursor=pointer]:
+                - generic [ref=e1432] [cursor=pointer]: ₹14,999
+                - generic [ref=e1433] [cursor=pointer]: ₹15,999
+                - generic [ref=e1435] [cursor=pointer]: 6% off
+              - generic [ref=e1438] [cursor=pointer]: Bank Offer
+        - link "Samsung Galaxy A05s (Black, 128 GB) Currently unavailable Add to Compare Samsung Galaxy A05s (Black, 128 GB) 4.2 142 Ratings & 4 Reviews • 4 GB RAM | 128 GB ROM | Expandable Upto 1 TB • 17.07 cm (6.72 inch) Full HD+ Display • 50MP + 2MP + 2MP | 13MP Front Camera • 5000 mAh Battery • 680 Processor • 1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories ₹9,999 ₹15,999 37% off Upto ₹6,900 Off on Exchange Bank Offer" [ref=e1443] [cursor=pointer]:
+          - /url: /samsung-galaxy-a05s-black-128-gb/p/itmf1e1e23cda773?pid=MOBGTZ6WCWZDCFKR&lid=LSTMOBGTZ6WCWZDCFKRESICOZ&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_20&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBGTZ6WCWZDCFKR.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e1444] [cursor=pointer]:
+            - generic [ref=e1445] [cursor=pointer]:
+              - img "Samsung Galaxy A05s (Black, 128 GB)" [ref=e1448] [cursor=pointer]
+              - generic:
+                - generic: Currently unavailable
+            - generic [ref=e1455] [cursor=pointer]: Add to Compare
+            - img [ref=e1458] [cursor=pointer]
+          - generic [ref=e1460] [cursor=pointer]:
+            - generic [ref=e1461] [cursor=pointer]:
+              - generic [ref=e1462] [cursor=pointer]: Samsung Galaxy A05s (Black, 128 GB)
+              - generic [ref=e1463] [cursor=pointer]:
+                - generic [ref=e1465] [cursor=pointer]:
+                  - text: "4.2"
+                  - img [ref=e1466] [cursor=pointer]
+                - generic [ref=e1468] [cursor=pointer]:
+                  - generic [ref=e1469] [cursor=pointer]: 142 Ratings
+                  - generic [ref=e1470] [cursor=pointer]: "&"
+                  - generic [ref=e1471] [cursor=pointer]: 4 Reviews
+              - list [ref=e1473] [cursor=pointer]:
+                - listitem [ref=e1474] [cursor=pointer]: • 4 GB RAM | 128 GB ROM | Expandable Upto 1 TB
+                - listitem [ref=e1475] [cursor=pointer]: • 17.07 cm (6.72 inch) Full HD+ Display
+                - listitem [ref=e1476] [cursor=pointer]: • 50MP + 2MP + 2MP | 13MP Front Camera
+                - listitem [ref=e1477] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e1478] [cursor=pointer]: • 680 Processor
+                - listitem [ref=e1479] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories
+            - generic [ref=e1480] [cursor=pointer]:
+              - generic [ref=e1482] [cursor=pointer]:
+                - generic [ref=e1483] [cursor=pointer]: ₹9,999
+                - generic [ref=e1484] [cursor=pointer]: ₹15,999
+                - generic [ref=e1486] [cursor=pointer]: 37% off
+              - img [ref=e1488] [cursor=pointer]
+              - generic [ref=e1490] [cursor=pointer]:
+                - generic [ref=e1491] [cursor=pointer]: Upto
+                - generic [ref=e1492] [cursor=pointer]: ₹6,900
+                - generic [ref=e1493] [cursor=pointer]: Off on Exchange
+              - generic [ref=e1496] [cursor=pointer]: Bank Offer
+        - link "Samsung Galaxy A52s 5G (Awesome Black, 128 GB) Currently unavailable Add to Compare Samsung Galaxy A52s 5G (Awesome Black, 128 GB) 4.2 1,070 Ratings & 128 Reviews • 6 GB RAM | 128 GB ROM | Expandable Upto 1 TB • 16.51 cm (6.5 inch) Full HD+ Display • 64MP + 12MP + 5MP + 5MP | 32MP Front Camera • 4500 mAh Li-ion Battery • Qualcomm Snapdragon 778G Processor • 1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-box Accessories ₹26,999 ₹38,574 30% off Bank Offer" [ref=e1501] [cursor=pointer]:
+          - /url: /samsung-galaxy-a52s-5g-awesome-black-128-gb/p/itm7e3b855f916b6?pid=MOBG6YPZKZD6FNR3&lid=LSTMOBG6YPZKZD6FNR37NZZBJ&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_21&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBG6YPZKZD6FNR3.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e1502] [cursor=pointer]:
+            - generic [ref=e1503] [cursor=pointer]:
+              - img "Samsung Galaxy A52s 5G (Awesome Black, 128 GB)" [ref=e1506] [cursor=pointer]
+              - generic:
+                - generic: Currently unavailable
+            - generic [ref=e1513] [cursor=pointer]: Add to Compare
+            - img [ref=e1516] [cursor=pointer]
+          - generic [ref=e1518] [cursor=pointer]:
+            - generic [ref=e1519] [cursor=pointer]:
+              - generic [ref=e1520] [cursor=pointer]: Samsung Galaxy A52s 5G (Awesome Black, 128 GB)
+              - generic [ref=e1521] [cursor=pointer]:
+                - generic [ref=e1523] [cursor=pointer]:
+                  - text: "4.2"
+                  - img [ref=e1524] [cursor=pointer]
+                - generic [ref=e1526] [cursor=pointer]:
+                  - generic [ref=e1527] [cursor=pointer]: 1,070 Ratings
+                  - generic [ref=e1528] [cursor=pointer]: "&"
+                  - generic [ref=e1529] [cursor=pointer]: 128 Reviews
+              - list [ref=e1531] [cursor=pointer]:
+                - listitem [ref=e1532] [cursor=pointer]: • 6 GB RAM | 128 GB ROM | Expandable Upto 1 TB
+                - listitem [ref=e1533] [cursor=pointer]: • 16.51 cm (6.5 inch) Full HD+ Display
+                - listitem [ref=e1534] [cursor=pointer]: • 64MP + 12MP + 5MP + 5MP | 32MP Front Camera
+                - listitem [ref=e1535] [cursor=pointer]: • 4500 mAh Li-ion Battery
+                - listitem [ref=e1536] [cursor=pointer]: • Qualcomm Snapdragon 778G Processor
+                - listitem [ref=e1537] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-box Accessories
+            - generic [ref=e1538] [cursor=pointer]:
+              - generic [ref=e1540] [cursor=pointer]:
+                - generic [ref=e1541] [cursor=pointer]: ₹26,999
+                - generic [ref=e1542] [cursor=pointer]: ₹38,574
+                - generic [ref=e1544] [cursor=pointer]: 30% off
+              - img [ref=e1546] [cursor=pointer]
+              - generic [ref=e1549] [cursor=pointer]: Bank Offer
+        - link "Samsung Galaxy S24 Ultra 5G (Titanium Yellow, 512 GB) Currently unavailable Add to Compare Samsung Galaxy S24 Ultra 5G (Titanium Yellow, 512 GB) 4.6 5,444 Ratings & 444 Reviews • 12 GB RAM | 512 GB ROM • 17.27 cm (6.8 inch) Quad HD+ Display • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera • 5000 mAh Battery • Snapdragon 8 Gen 3 Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹92,999 ₹1,44,999 35% off Big Billion Days Price Upto ₹41,350 Off on Exchange" [ref=e1554] [cursor=pointer]:
+          - /url: /samsung-galaxy-s24-ultra-5g-titanium-yellow-512-gb/p/itmc2ea635530e53?pid=MOBH3P4UQRS8EYTB&lid=LSTMOBH3P4UQRS8EYTBXSLBD6&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_22&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBH3P4UQRS8EYTB.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e1555] [cursor=pointer]:
+            - generic [ref=e1556] [cursor=pointer]:
+              - img "Samsung Galaxy S24 Ultra 5G (Titanium Yellow, 512 GB)" [ref=e1559] [cursor=pointer]
+              - generic:
+                - generic: Currently unavailable
+            - generic [ref=e1566] [cursor=pointer]: Add to Compare
+            - img [ref=e1569] [cursor=pointer]
+          - generic [ref=e1571] [cursor=pointer]:
+            - generic [ref=e1572] [cursor=pointer]:
+              - generic [ref=e1573] [cursor=pointer]: Samsung Galaxy S24 Ultra 5G (Titanium Yellow, 512 GB)
+              - generic [ref=e1574] [cursor=pointer]:
+                - generic [ref=e1576] [cursor=pointer]:
+                  - text: "4.6"
+                  - img [ref=e1577] [cursor=pointer]
+                - generic [ref=e1579] [cursor=pointer]:
+                  - generic [ref=e1580] [cursor=pointer]: 5,444 Ratings
+                  - generic [ref=e1581] [cursor=pointer]: "&"
+                  - generic [ref=e1582] [cursor=pointer]: 444 Reviews
+              - list [ref=e1584] [cursor=pointer]:
+                - listitem [ref=e1585] [cursor=pointer]: • 12 GB RAM | 512 GB ROM
+                - listitem [ref=e1586] [cursor=pointer]: • 17.27 cm (6.8 inch) Quad HD+ Display
+                - listitem [ref=e1587] [cursor=pointer]: • 200MP + 50MP + 12MP + 10MP | 12MP Front Camera
+                - listitem [ref=e1588] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e1589] [cursor=pointer]: • Snapdragon 8 Gen 3 Processor
+                - listitem [ref=e1590] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e1591] [cursor=pointer]:
+              - generic [ref=e1593] [cursor=pointer]:
+                - generic [ref=e1594] [cursor=pointer]: ₹92,999
+                - generic [ref=e1595] [cursor=pointer]: ₹1,44,999
+                - generic [ref=e1597] [cursor=pointer]: 35% off
+              - img [ref=e1599] [cursor=pointer]
+              - generic [ref=e1602] [cursor=pointer]: Big Billion Days Price
+              - generic [ref=e1604] [cursor=pointer]:
+                - generic [ref=e1605] [cursor=pointer]: Upto
+                - generic [ref=e1606] [cursor=pointer]: ₹41,350
+                - generic [ref=e1607] [cursor=pointer]: Off on Exchange
+        - link "Samsung Galaxy S25 Ultra 5G (Titanium Black, 512 GB) Add to Compare Samsung Galaxy S25 Ultra 5G (Titanium Black, 512 GB) 4.7 2,014 Ratings & 222 Reviews • 12 GB RAM | 512 GB ROM • 17.53 cm (6.9 inch) Quad HD+ Display • 200MP + 50MP + 50MP + 10MP | 12MP Front Camera • 5000 mAh Battery • 8 Elite for Galaxy Processor • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories ₹1,35,499 ₹1,41,999 4% off Upto ₹41,350 Off on Exchange Bank Offer" [ref=e1612] [cursor=pointer]:
+          - /url: /samsung-galaxy-s25-ultra-5g-titanium-black-512-gb/p/itmc5f14b041aa5b?pid=MOBH8K8UZPUKTTXK&lid=LSTMOBH8K8UZPUKTTXKDDLTOJ&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_23&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBH8K8UZPUKTTXK.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e1613] [cursor=pointer]:
+            - img "Samsung Galaxy S25 Ultra 5G (Titanium Black, 512 GB)" [ref=e1617] [cursor=pointer]
+            - generic [ref=e1624] [cursor=pointer]: Add to Compare
+            - img [ref=e1627] [cursor=pointer]
+          - generic [ref=e1629] [cursor=pointer]:
+            - generic [ref=e1630] [cursor=pointer]:
+              - generic [ref=e1631] [cursor=pointer]: Samsung Galaxy S25 Ultra 5G (Titanium Black, 512 GB)
+              - generic [ref=e1632] [cursor=pointer]:
+                - generic [ref=e1634] [cursor=pointer]:
+                  - text: "4.7"
+                  - img [ref=e1635] [cursor=pointer]
+                - generic [ref=e1637] [cursor=pointer]:
+                  - generic [ref=e1638] [cursor=pointer]: 2,014 Ratings
+                  - generic [ref=e1639] [cursor=pointer]: "&"
+                  - generic [ref=e1640] [cursor=pointer]: 222 Reviews
+              - list [ref=e1642] [cursor=pointer]:
+                - listitem [ref=e1643] [cursor=pointer]: • 12 GB RAM | 512 GB ROM
+                - listitem [ref=e1644] [cursor=pointer]: • 17.53 cm (6.9 inch) Quad HD+ Display
+                - listitem [ref=e1645] [cursor=pointer]: • 200MP + 50MP + 50MP + 10MP | 12MP Front Camera
+                - listitem [ref=e1646] [cursor=pointer]: • 5000 mAh Battery
+                - listitem [ref=e1647] [cursor=pointer]: • 8 Elite for Galaxy Processor
+                - listitem [ref=e1648] [cursor=pointer]: • 1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories
+            - generic [ref=e1649] [cursor=pointer]:
+              - generic [ref=e1651] [cursor=pointer]:
+                - generic [ref=e1652] [cursor=pointer]: ₹1,35,499
+                - generic [ref=e1653] [cursor=pointer]: ₹1,41,999
+                - generic [ref=e1655] [cursor=pointer]: 4% off
+              - img [ref=e1657] [cursor=pointer]
+              - generic [ref=e1659] [cursor=pointer]:
+                - generic [ref=e1660] [cursor=pointer]: Upto
+                - generic [ref=e1661] [cursor=pointer]: ₹41,350
+                - generic [ref=e1662] [cursor=pointer]: Off on Exchange
+              - generic [ref=e1665] [cursor=pointer]: Bank Offer
+        - link "Samsung Galaxy A50s (Prism Crush Black, 128 GB) Coming Soon Add to Compare Samsung Galaxy A50s (Prism Crush Black, 128 GB) 4.3 48,694 Ratings & 4,481 Reviews • 4 GB RAM | 128 GB ROM • 16.26 cm (6.4 inch) Full HD+ Display • 48MP + 8MP + 5MP | 32MP Front Camera • 4000 mAh Li-ion Battery • Exynos 9611 Processor • Super AMOLED Display • Brand Warranty of 1 Year Available for Mobile and 6 Months for Battery and Accessories ₹21,070 ₹24,900 15% off" [ref=e1670] [cursor=pointer]:
+          - /url: /samsung-galaxy-a50s-prism-crush-black-128-gb/p/itm31b19a153195b?pid=MOBFK4REY2CUGAG7&lid=LSTMOBFK4REY2CUGAG76S22LA&marketplace=FLIPKART&q=samsung+galaxy+s24+ultra+5g+black&store=tyy%2F4io&srno=s_1_24&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&fm=organic&iid=7f441f90-53e6-482d-8012-ecd8525de3e9.MOBFK4REY2CUGAG7.SEARCH&ppt=hp&ppn=homepage&ssid=5ks4m9cmw00000001757996867503&qH=51124a3c5190e345
+          - generic [ref=e1671] [cursor=pointer]:
+            - generic [ref=e1672] [cursor=pointer]:
+              - img "Samsung Galaxy A50s (Prism Crush Black, 128 GB)" [ref=e1675] [cursor=pointer]
+              - generic:
+                - generic: Coming Soon
+            - generic [ref=e1682] [cursor=pointer]: Add to Compare
+            - img [ref=e1685] [cursor=pointer]
+          - generic [ref=e1687] [cursor=pointer]:
+            - generic [ref=e1688] [cursor=pointer]:
+              - generic [ref=e1689] [cursor=pointer]: Samsung Galaxy A50s (Prism Crush Black, 128 GB)
+              - generic [ref=e1690] [cursor=pointer]:
+                - generic [ref=e1692] [cursor=pointer]:
+                  - text: "4.3"
+                  - img [ref=e1693] [cursor=pointer]
+                - generic [ref=e1695] [cursor=pointer]:
+                  - generic [ref=e1696] [cursor=pointer]: 48,694 Ratings
+                  - generic [ref=e1697] [cursor=pointer]: "&"
+                  - generic [ref=e1698] [cursor=pointer]: 4,481 Reviews
+              - list [ref=e1700] [cursor=pointer]:
+                - listitem [ref=e1701] [cursor=pointer]: • 4 GB RAM | 128 GB ROM
+                - listitem [ref=e1702] [cursor=pointer]: • 16.26 cm (6.4 inch) Full HD+ Display
+                - listitem [ref=e1703] [cursor=pointer]: • 48MP + 8MP + 5MP | 32MP Front Camera
+                - listitem [ref=e1704] [cursor=pointer]: • 4000 mAh Li-ion Battery
+                - listitem [ref=e1705] [cursor=pointer]: • Exynos 9611 Processor
+                - listitem [ref=e1706] [cursor=pointer]: • Super AMOLED Display
+                - listitem [ref=e1707] [cursor=pointer]: • Brand Warranty of 1 Year Available for Mobile and 6 Months for Battery and Accessories
+            - generic [ref=e1708] [cursor=pointer]:
+              - generic [ref=e1710] [cursor=pointer]:
+                - generic [ref=e1711] [cursor=pointer]: ₹21,070
+                - generic [ref=e1712] [cursor=pointer]: ₹24,900
+                - generic [ref=e1714] [cursor=pointer]: 15% off
+              - img [ref=e1716] [cursor=pointer]
+        - generic [ref=e1719]:
+          - generic [ref=e1720]: Page 1 of 2
+          - navigation [ref=e1721]:
+            - link "1" [ref=e1722] [cursor=pointer]:
+              - /url: /search?q=samsung+galaxy+s24+ultra+5g+black&sid=tyy%2C4io&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&as-pos=1&as-type=RECENT&suggestionId=samsung+galaxy+s24+ultra+5g+black%7CMobiles&requestId=41b0ddf1-036c-4625-9be6-8800be4ec7d7&as-searchtext=samsung+galaxy+s24+ultra+5g+black&page=1
+            - link "2" [ref=e1723] [cursor=pointer]:
+              - /url: /search?q=samsung+galaxy+s24+ultra+5g+black&sid=tyy%2C4io&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&as-pos=1&as-type=RECENT&suggestionId=samsung+galaxy+s24+ultra+5g+black%7CMobiles&requestId=41b0ddf1-036c-4625-9be6-8800be4ec7d7&as-searchtext=samsung+galaxy+s24+ultra+5g+black&page=2
+            - link "Next" [ref=e1724] [cursor=pointer]:
+              - /url: /search?q=samsung+galaxy+s24+ultra+5g+black&sid=tyy%2C4io&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_33_na_na_na&as-pos=1&as-type=RECENT&suggestionId=samsung+galaxy+s24+ultra+5g+black%7CMobiles&requestId=41b0ddf1-036c-4625-9be6-8800be4ec7d7&as-searchtext=samsung+galaxy+s24+ultra+5g+black&page=2
+              - generic [ref=e1725] [cursor=pointer]: Next
+        - generic [ref=e1727]:
+          - generic [ref=e1728]: Did you find what you were looking for?
+          - generic [ref=e1729]:
+            - generic [ref=e1730] [cursor=pointer]: "Yes"
+            - generic [ref=e1731] [cursor=pointer]: "No"
+    - generic [ref=e1733]:
+      - generic [ref=e1734]: Reviews for Popular Mobiles
+      - generic [ref=e1735]:
+        - generic [ref=e1736]:
+          - generic [ref=e1738]:
+            - img "Samsung Galaxy A50s (Prism Crush Black, 128 GB)"
+          - generic [ref=e1739]:
+            - link "1. Samsung Galaxy A50s (Prism ... 4.3 48,694 Ratings&4,481 Reviews ₹21,070 15% off" [ref=e1740] [cursor=pointer]:
+              - /url: /samsung-galaxy-a50s-prism-crush-black-128-gb/p/itm31b19a153195b?pid=MOBFK4REY2CUGAG7&marketplace=FLIPKART
+              - generic [ref=e1742] [cursor=pointer]: 1. Samsung Galaxy A50s (Prism ...
+              - generic [ref=e1743] [cursor=pointer]:
+                - generic [ref=e1744] [cursor=pointer]:
+                  - text: "4.3"
+                  - img [ref=e1745] [cursor=pointer]
+                - generic [ref=e1746] [cursor=pointer]:
+                  - generic [ref=e1747] [cursor=pointer]: 48,694 Ratings
+                  - generic [ref=e1748] [cursor=pointer]:
+                    - generic [ref=e1749] [cursor=pointer]: "&"
+                    - generic [ref=e1750] [cursor=pointer]: 4,481 Reviews
+              - generic [ref=e1752] [cursor=pointer]:
+                - generic [ref=e1753] [cursor=pointer]: ₹21,070
+                - generic [ref=e1755] [cursor=pointer]: 15% off
+            - list [ref=e1756]:
+              - listitem [ref=e1757]: 4 GB RAM | 128 GB ROM
+              - listitem [ref=e1758]: 16.26 cm (6.4 inch) Full HD+ Display
+              - listitem [ref=e1759]: 48MP + 8MP + 5MP | 32MP Front Camera
+        - generic [ref=e1760]:
+          - generic [ref=e1761]: Most Helpful Review
+          - generic [ref=e1763]:
+            - generic [ref=e1764]:
+              - generic [ref=e1765]:
+                - text: "5"
+                - img [ref=e1766]
+              - paragraph [ref=e1767]: Worth every penny
+            - generic [ref=e1771]: awesome triple camera with screen quality.
+            - generic [ref=e1773]:
+              - paragraph [ref=e1774]: Sandip Das
+              - img [ref=e1775]
+              - paragraph [ref=e1779]:
+                - generic [ref=e1780]: Certified Buyer
+              - paragraph [ref=e1781]: Dec, 2019
+        - generic [ref=e1782]:
+          - generic [ref=e1783]: Recent Review
+          - generic [ref=e1785]:
+            - generic [ref=e1786]:
+              - generic [ref=e1787]:
+                - text: "5"
+                - img [ref=e1788]
+              - paragraph [ref=e1789]: Excellent
+            - generic [ref=e1793]: Wonderful experience overall
+            - generic [ref=e1795]:
+              - paragraph [ref=e1796]: Debashis Sur
+              - img [ref=e1797]
+              - paragraph [ref=e1801]:
+                - generic [ref=e1802]: Certified Buyer
+              - paragraph [ref=e1803]: 7 days ago
+      - generic [ref=e1804]:
+        - generic [ref=e1805]:
+          - generic [ref=e1807]:
+            - img "Samsung M55s (Thunder Black, 128 GB)"
+          - generic [ref=e1808]:
+            - link "2. Samsung M55s (Thunder Black... 4.1 238 Ratings&17 Reviews ₹17,399 40% off" [ref=e1809] [cursor=pointer]:
+              - /url: /samsung-m55s-thunder-black-128-gb/p/itm8f413dae3cfac?pid=MOBH549ARXFXDBHG&marketplace=FLIPKART
+              - generic [ref=e1811] [cursor=pointer]: 2. Samsung M55s (Thunder Black...
+              - generic [ref=e1812] [cursor=pointer]:
+                - generic [ref=e1813] [cursor=pointer]:
+                  - text: "4.1"
+                  - img [ref=e1814] [cursor=pointer]
+                - generic [ref=e1815] [cursor=pointer]:
+                  - generic [ref=e1816] [cursor=pointer]: 238 Ratings
+                  - generic [ref=e1817] [cursor=pointer]:
+                    - generic [ref=e1818] [cursor=pointer]: "&"
+                    - generic [ref=e1819] [cursor=pointer]: 17 Reviews
+              - generic [ref=e1821] [cursor=pointer]:
+                - generic [ref=e1822] [cursor=pointer]: ₹17,399
+                - generic [ref=e1824] [cursor=pointer]: 40% off
+            - list [ref=e1825]:
+              - listitem [ref=e1826]: 8 GB RAM | 128 GB ROM
+              - listitem [ref=e1827]: 17.02 cm (6.7 inch) Full HD+ Display
+              - listitem [ref=e1828]: 50MP Rear Camera
+        - generic [ref=e1829]:
+          - generic [ref=e1830]: Most Helpful Review
+          - generic [ref=e1832]:
+            - generic [ref=e1833]:
+              - generic [ref=e1834]:
+                - text: "5"
+                - img [ref=e1835]
+              - paragraph [ref=e1836]: Best in the market!
+            - generic [ref=e1840]: I take this phone in February 1 and phone design is good and in this phone snapdragon 7 gn 1 performance
+            - generic [ref=e1842]:
+              - paragraph [ref=e1843]: Ghughaloth karunya Customer
+              - img [ref=e1844]
+              - paragraph [ref=e1848]:
+                - generic [ref=e1849]: Certified Buyer
+              - paragraph [ref=e1850]: 6 months ago
+        - generic [ref=e1851]:
+          - generic [ref=e1852]: Recent Review
+          - generic [ref=e1854]:
+            - generic [ref=e1855]:
+              - generic [ref=e1856]:
+                - text: "1"
+                - img [ref=e1857]
+              - paragraph [ref=e1858]: Very poor
+            - generic [ref=e1862]: Very bad phone don't buy this product
+            - generic [ref=e1864]:
+              - paragraph [ref=e1865]: SUMANT KUMAR SWAIN
+              - img [ref=e1866]
+              - paragraph [ref=e1870]:
+                - generic [ref=e1871]: Certified Buyer
+              - paragraph [ref=e1872]: 7 days ago
+      - generic [ref=e1873]:
+        - generic [ref=e1874]:
+          - generic [ref=e1876]:
+            - img "Samsung Galaxy S24+ 5G (Onyx Black, 512 GB)"
+          - generic [ref=e1877]:
+            - link "3. Samsung Galaxy S24+ 5G (Ony... 4.5 11,872 Ratings&881 Reviews ₹1,04,999 4% off" [ref=e1878] [cursor=pointer]:
+              - /url: /samsung-galaxy-s24-5g-onyx-black-512-gb/p/itme2d93d42550ad?pid=MOBGX2F3YAZ6MRCQ&marketplace=FLIPKART
+              - generic [ref=e1880] [cursor=pointer]: 3. Samsung Galaxy S24+ 5G (Ony...
+              - generic [ref=e1881] [cursor=pointer]:
+                - generic [ref=e1882] [cursor=pointer]:
+                  - text: "4.5"
+                  - img [ref=e1883] [cursor=pointer]
+                - generic [ref=e1884] [cursor=pointer]:
+                  - generic [ref=e1885] [cursor=pointer]: 11,872 Ratings
+                  - generic [ref=e1886] [cursor=pointer]:
+                    - generic [ref=e1887] [cursor=pointer]: "&"
+                    - generic [ref=e1888] [cursor=pointer]: 881 Reviews
+              - generic [ref=e1890] [cursor=pointer]:
+                - generic [ref=e1891] [cursor=pointer]: ₹1,04,999
+                - generic [ref=e1893] [cursor=pointer]: 4% off
+            - list [ref=e1894]:
+              - listitem [ref=e1895]: 12 GB RAM | 512 GB ROM
+              - listitem [ref=e1896]: 17.02 cm (6.7 inch) Quad HD+ Display
+              - listitem [ref=e1897]: 50MP + 10MP + 12MP | 12MP Front Camera
+        - generic [ref=e1898]:
+          - generic [ref=e1899]: Most Helpful Review
+          - generic [ref=e1901]:
+            - generic [ref=e1902]:
+              - generic [ref=e1903]:
+                - text: "5"
+                - img [ref=e1904]
+              - paragraph [ref=e1905]: Wonderful
+            - generic [ref=e1908]:
+              - generic [ref=e1909]: Shifted from s21fe to s24 plus. Overall it's better than s21fe but not so much. U don't get proportion return as u buy more and more expensive phone. For the...
+              - generic [ref=e1911] [cursor=pointer]: Read full review
+            - generic [ref=e1913]:
+              - paragraph [ref=e1914]: Nachiketa
+              - img [ref=e1915]
+              - paragraph [ref=e1919]:
+                - generic [ref=e1920]: Certified Buyer
+              - paragraph [ref=e1921]: 5 months ago
+        - generic [ref=e1922]:
+          - generic [ref=e1923]: Recent Review
+          - generic [ref=e1925]:
+            - generic [ref=e1926]:
+              - generic [ref=e1927]:
+                - text: "5"
+                - img [ref=e1928]
+              - paragraph [ref=e1929]: Excellent
+            - generic [ref=e1933]: Have been using IOS since 2015, recently purchased this S24+. I must say it had lived upto my expectations. So smooth performance.
+            - generic [ref=e1935]:
+              - paragraph [ref=e1936]: Sam Billings
+              - img [ref=e1937]
+              - paragraph [ref=e1941]:
+                - generic [ref=e1942]: Certified Buyer
+              - paragraph [ref=e1943]: 1 day ago
+      - generic [ref=e1944]:
+        - generic [ref=e1945]:
+          - generic [ref=e1947]:
+            - img "Samsung Galaxy S24 FE 5G (Graphite, 256 GB)"
+          - generic [ref=e1948]:
+            - link "4. Samsung Galaxy S24 FE 5G (G... 4.5 15,957 Ratings&1,207 Reviews ₹45,999 30% off" [ref=e1949] [cursor=pointer]:
+              - /url: /samsung-galaxy-s24-fe-5g-graphite-256-gb/p/itme960199e26f23?pid=MOBH4ZG3KPRR7HWZ&marketplace=FLIPKART
+              - generic [ref=e1951] [cursor=pointer]: 4. Samsung Galaxy S24 FE 5G (G...
+              - generic [ref=e1952] [cursor=pointer]:
+                - generic [ref=e1953] [cursor=pointer]:
+                  - text: "4.5"
+                  - img [ref=e1954] [cursor=pointer]
+                - generic [ref=e1955] [cursor=pointer]:
+                  - generic [ref=e1956] [cursor=pointer]: 15,957 Ratings
+                  - generic [ref=e1957] [cursor=pointer]:
+                    - generic [ref=e1958] [cursor=pointer]: "&"
+                    - generic [ref=e1959] [cursor=pointer]: 1,207 Reviews
+              - generic [ref=e1961] [cursor=pointer]:
+                - generic [ref=e1962] [cursor=pointer]: ₹45,999
+                - generic [ref=e1964] [cursor=pointer]: 30% off
+            - list [ref=e1965]:
+              - listitem [ref=e1966]: 8 GB RAM | 256 GB ROM
+              - listitem [ref=e1967]: 17.02 cm (6.7 inch) Full HD+ Display
+              - listitem [ref=e1968]: 50MP + 12MP | 10MP Front Camera
+        - generic [ref=e1969]:
+          - generic [ref=e1970]: Most Helpful Review
+          - generic [ref=e1972]:
+            - generic [ref=e1973]:
+              - generic [ref=e1974]:
+                - text: "5"
+                - img [ref=e1975]
+              - paragraph [ref=e1976]: Highly recommended
+            - generic [ref=e1980]: I am loving this phone, it's just few days since I got the device, I have lot more to explore. Good videography and photography phone in budget.
+            - generic [ref=e1982]:
+              - paragraph [ref=e1983]: ADARSH THAMBI
+              - img [ref=e1984]
+              - paragraph [ref=e1988]:
+                - generic [ref=e1989]: Certified Buyer
+              - paragraph [ref=e1990]: 5 months ago
+        - generic [ref=e1991]:
+          - generic [ref=e1992]: Recent Review
+          - generic [ref=e1994]:
+            - generic [ref=e1995]:
+              - generic [ref=e1996]:
+                - text: "5"
+                - img [ref=e1997]
+              - paragraph [ref=e1998]: Super!
+            - generic [ref=e2002]: Very nice phone get all features of premium samsung mobiles
+            - generic [ref=e2004]:
+              - paragraph [ref=e2005]: Ankit Kapadiya
+              - img [ref=e2006]
+              - paragraph [ref=e2010]:
+                - generic [ref=e2011]: Certified Buyer
+              - paragraph [ref=e2012]: 2 days ago
+      - generic [ref=e2013]:
+        - generic [ref=e2014]:
+          - generic [ref=e2016]:
+            - img "Samsung Galaxy A05s (Black, 128 GB)"
+          - generic [ref=e2017]:
+            - link "5. Samsung Galaxy A05s (Black,... 4.2 142 Ratings&4 Reviews ₹9,999 37% off" [ref=e2018] [cursor=pointer]:
+              - /url: /samsung-galaxy-a05s-black-128-gb/p/itmf1e1e23cda773?pid=MOBGTZ6WCWZDCFKR&marketplace=FLIPKART
+              - generic [ref=e2020] [cursor=pointer]: 5. Samsung Galaxy A05s (Black,...
+              - generic [ref=e2021] [cursor=pointer]:
+                - generic [ref=e2022] [cursor=pointer]:
+                  - text: "4.2"
+                  - img [ref=e2023] [cursor=pointer]
+                - generic [ref=e2024] [cursor=pointer]:
+                  - generic [ref=e2025] [cursor=pointer]: 142 Ratings
+                  - generic [ref=e2026] [cursor=pointer]:
+                    - generic [ref=e2027] [cursor=pointer]: "&"
+                    - generic [ref=e2028] [cursor=pointer]: 4 Reviews
+              - generic [ref=e2030] [cursor=pointer]:
+                - generic [ref=e2031] [cursor=pointer]: ₹9,999
+                - generic [ref=e2033] [cursor=pointer]: 37% off
+            - list [ref=e2034]:
+              - listitem [ref=e2035]: 4 GB RAM | 128 GB ROM | Expandable Upto 1 TB
+              - listitem [ref=e2036]: 17.07 cm (6.72 inch) Full HD+ Display
+              - listitem [ref=e2037]: 50MP + 2MP + 2MP | 13MP Front Camera
+        - generic [ref=e2038]:
+          - generic [ref=e2039]: Most Helpful Review
+          - generic [ref=e2041]:
+            - generic [ref=e2042]:
+              - generic [ref=e2043]:
+                - text: "5"
+                - img [ref=e2044]
+              - paragraph [ref=e2045]: Great product
+            - generic [ref=e2049]: Camera performance perfect 😀
+            - generic [ref=e2051]:
+              - paragraph [ref=e2052]: Labani Barman
+              - img [ref=e2053]
+              - paragraph [ref=e2057]:
+                - generic [ref=e2058]: Certified Buyer
+              - paragraph [ref=e2059]: 2 months ago
+        - generic [ref=e2060]:
+          - generic [ref=e2061]: Recent Review
+          - generic [ref=e2063]:
+            - generic [ref=e2064]:
+              - generic [ref=e2065]:
+                - text: "5"
+                - img [ref=e2066]
+              - paragraph [ref=e2067]: Great product
+            - generic [ref=e2071]: Camera performance perfect 😀
+            - generic [ref=e2073]:
+              - paragraph [ref=e2074]: Labani Barman
+              - img [ref=e2075]
+              - paragraph [ref=e2079]:
+                - generic [ref=e2080]: Certified Buyer
+              - paragraph [ref=e2081]: 2 months ago
+  - contentinfo [ref=e2082]:
+    - generic [ref=e2084]:
+      - generic [ref=e2085]:
+        - generic [ref=e2086]:
+          - generic [ref=e2087]: ABOUT
+          - link "Contact Us" [ref=e2088] [cursor=pointer]:
+            - /url: /helpcentre?otracker=footer_navlinks
+          - link "About Us" [ref=e2089] [cursor=pointer]:
+            - /url: https://corporate.flipkart.net/corporate-home
+          - link "Careers" [ref=e2090] [cursor=pointer]:
+            - /url: https://www.flipkartcareers.com/?otracker=footer_navlinks
+          - link "Flipkart Stories" [ref=e2091] [cursor=pointer]:
+            - /url: http://stories.flipkart.com/?otracker=footer_navlinks
+          - link "Press" [ref=e2092] [cursor=pointer]:
+            - /url: http://stories.flipkart.com/category/top-stories/news/
+          - link "Corporate Information" [ref=e2093] [cursor=pointer]:
+            - /url: /corporate-information
+        - generic [ref=e2094]:
+          - generic [ref=e2095]: GROUP COMPANIES
+          - link "Myntra" [ref=e2096] [cursor=pointer]:
+            - /url: https://www.myntra.com/
+          - link "Cleartrip" [ref=e2097] [cursor=pointer]:
+            - /url: https://www.cleartrip.com/
+          - link "Shopsy" [ref=e2098] [cursor=pointer]:
+            - /url: https://www.shopsy.in/
+        - generic [ref=e2099]:
+          - generic [ref=e2100]: HELP
+          - link "Payments" [ref=e2101] [cursor=pointer]:
+            - /url: /pages/payments
+          - link "Shipping" [ref=e2102] [cursor=pointer]:
+            - /url: /pages/shipping
+          - link "Cancellation & Returns" [ref=e2103] [cursor=pointer]:
+            - /url: /helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG
+          - link "FAQ" [ref=e2104] [cursor=pointer]:
+            - /url: /helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG
+        - generic [ref=e2105]:
+          - generic [ref=e2106]: CONSUMER POLICY
+          - link "Cancellation & Returns" [ref=e2107] [cursor=pointer]:
+            - /url: /pages/returnpolicy?otracker=footer_navlinks
+          - link "Terms Of Use" [ref=e2108] [cursor=pointer]:
+            - /url: /pages/terms?otracker=footer_navlinks
+          - link "Security" [ref=e2109] [cursor=pointer]:
+            - /url: /pages/paymentsecurity?otracker=footer_navlinks
+          - link "Privacy" [ref=e2110] [cursor=pointer]:
+            - /url: /pages/privacypolicy?otracker=footer_navlinks
+          - link "Sitemap" [ref=e2111] [cursor=pointer]:
+            - /url: /sitemap?otracker=footer_navlinks
+          - link "Grievance Redressal" [ref=e2112] [cursor=pointer]:
+            - /url: /pages/grievance-redressal-mechanism?otracker=footer_navlinks
+          - link "EPR Compliance" [ref=e2113] [cursor=pointer]:
+            - /url: /pages/ewaste-compliance-tnc?otracker=footer_navlinks
+        - generic [ref=e2115]:
+          - generic [ref=e2117]: "Mail Us:"
+          - generic [ref=e2120]:
+            - paragraph [ref=e2121]: Flipkart Internet Private Limited,
+            - paragraph [ref=e2122]: Buildings Alyssa, Begonia &
+            - paragraph [ref=e2123]: Clove Embassy Tech Village,
+            - paragraph [ref=e2124]: Outer Ring Road, Devarabeesanahalli Village,
+            - paragraph [ref=e2125]: Bengaluru, 560103,
+            - paragraph [ref=e2126]: Karnataka, India
+          - generic [ref=e2127]: Social
+          - generic [ref=e2128]:
+            - link [ref=e2130] [cursor=pointer]:
+              - /url: https://www.facebook.com/flipkart
+              - img [ref=e2131] [cursor=pointer]
+            - link [ref=e2133] [cursor=pointer]:
+              - /url: https://www.twitter.com/flipkart
+              - img [ref=e2134] [cursor=pointer]
+            - link [ref=e2136] [cursor=pointer]:
+              - /url: https://www.youtube.com/flipkart
+              - img [ref=e2137] [cursor=pointer]
+            - link [ref=e2139] [cursor=pointer]:
+              - /url: https://www.instagram.com/flipkart
+              - img [ref=e2140] [cursor=pointer]
+        - generic [ref=e2142]:
+          - generic [ref=e2144]: "Registered Office Address:"
+          - generic [ref=e2147]:
+            - paragraph [ref=e2148]: Flipkart Internet Private Limited,
+            - paragraph [ref=e2149]: Buildings Alyssa, Begonia &
+            - paragraph [ref=e2150]: Clove Embassy Tech Village,
+            - paragraph [ref=e2151]: Outer Ring Road, Devarabeesanahalli Village,
+            - paragraph [ref=e2152]: Bengaluru, 560103,
+            - paragraph [ref=e2153]: Karnataka, India
+            - paragraph [ref=e2154]: "CIN : U51109KA2012PTC066107"
+            - paragraph [ref=e2155]:
+              - text: "Telephone:"
+              - link "044-45614700" [ref=e2156] [cursor=pointer]:
+                - /url: tel:044-45614700
+              - text: /
+              - link "044-67415800" [ref=e2157] [cursor=pointer]:
+                - /url: tel:044-67415800
+      - generic [ref=e2159]:
+        - generic [ref=e2160]:
+          - img [ref=e2161]
+          - link "Become a Seller" [ref=e2162] [cursor=pointer]:
+            - /url: https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect
+            - generic [ref=e2163] [cursor=pointer]: Become a Seller
+        - generic [ref=e2164]:
+          - img [ref=e2165]
+          - link "Advertise" [ref=e2166] [cursor=pointer]:
+            - /url: https://brands.flipkart.com
+            - generic [ref=e2167] [cursor=pointer]: Advertise
+        - generic [ref=e2168]:
+          - img [ref=e2169]
+          - link "Gift Cards" [ref=e2170] [cursor=pointer]:
+            - /url: /the-gift-card-store?otracker=footer_navlinks
+            - generic [ref=e2171] [cursor=pointer]: Gift Cards
+        - generic [ref=e2172]:
+          - img [ref=e2173]
+          - link "Help Center" [ref=e2174] [cursor=pointer]:
+            - /url: /helpcentre?otracker=footer_navlinks
+            - generic [ref=e2175] [cursor=pointer]: Help Center
+        - generic [ref=e2176]:
+          - text: © 2007-2025
+          - generic [ref=e2177]: Flipkart.com
+        - img [ref=e2178]
+```
